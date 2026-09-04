@@ -10,7 +10,7 @@ HOUR = rf"{NUMBER}\s*(?:বজা|টা বজা|টা বাজি|বাজ
 MINUTE = rf"{NUMBER}\s*মিনিট"
 SECOND = rf"{NUMBER}\s*ছেকেণ্ড"
 
-pattern_t = re.compile(
+TIME = re.compile(
     rf"""
     (?:
         {PART_OF_DAY}\s+{HOUR}\s+{MINUTE}\s+{SECOND}
@@ -60,7 +60,7 @@ YEAR = rf"{NUMBER}\s*(?:চনৰ|চন|চনত)?"
 YEAR_MARK = r"(?:চন)"
 WEEKDAY = r"(?:দেওবাৰ|সোমবাৰ|মঙলবাৰ|বুধবাৰ|বৃহস্পতিবাৰ|শুক্ৰবাৰ|শনিবাৰ)"
 
-pattern_d = re.compile(
+DATE = re.compile(
     rf"""
     (?:
         {DAY}\s+{MONTH}\s+{YEAR}
@@ -89,10 +89,10 @@ pattern_d = re.compile(
     re.VERBOSE
 )
 
-for match in pattern_t.finditer(text):
+for match in TIME.finditer(text):
     print(match.group(), " <- TIME")
     print(match.span())
 
-for match in pattern_d.finditer(text):
+for match in DATE.finditer(text):
     print(match.group(), " <- DATE")
     print(match.span())

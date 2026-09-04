@@ -15,8 +15,8 @@ def initialize_charmap(texts):
         for ch in t:
             ch_list.add(ch)
 
-    # Assamese & ASCII Digits
-    digits = "0123456789০১২৩৪৫৬৭৮৯"
+    # # Assamese & ASCII Digits
+    # digits = "0123456789০১২৩৪৫৬৭৮৯"
 
     for ch in ch_list:
         # 1. Handle single quotes / apostrophes (pad with space for clean tokenization)
@@ -31,8 +31,8 @@ def initialize_charmap(texts):
         elif ch in syms:
             char_map[ch] = f" {ch} "
         # 4. Handle digits
-        elif ch in digits:
-            char_map[ch] = f" {ch} "
+        # elif ch in digits:
+        #     char_map[ch] = f" {ch} "
         # 5. Default case
         else:
             char_map[ch] = ch
@@ -86,4 +86,8 @@ preprocessed_texts = [normalizer(t, cmap) for t in text_list]
 # Save output
 with open(f"{FILE_PATH}_preprocessed.html", "w", encoding='utf-8') as f:
     for t in preprocessed_texts:
+        f.write(t + "\n\n")
+
+with open(f"{FILE_PATH}_preprocessed_2.html", "w", encoding='utf-8') as f:
+    for t in text_list:
         f.write(t + "\n\n")
