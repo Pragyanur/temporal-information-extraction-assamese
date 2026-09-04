@@ -1,0 +1,735 @@
+﻿file_name,tid,type,value,temporalFunction,anchorTimeID,mod,functionInDocument,expression
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-08-16,true,t0,,,১৬ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DURATION,P7D,false,,,,বিগত ৭ দিনে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-08-16TNI,true,t0,,,যোৱা দেওবাৰ নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-08-23,true,t0,ON_OR_BEFORE,,২৩ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2025,true,t0,,,গতবছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,TIME,2026-08-20TMO,true,t0,,,আজি পুৱাৰ ভাগত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-15,true,t0,,,১৫ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-06-15T18:00,true,t0,APPROX,,বিয়লি প্ৰায় ৬ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P1M,false,,,,যোৱা এমাহৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-06-17,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-08-04TNI,true,t0,,,৪ আগষ্ট তাৰিখে নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-08-05,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P3W,false,,,,বিগত তিনি সপ্তাহ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-08-06,true,t0,,,৬ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-05-21,true,t0,,,২১ মে'
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,SET,P1Y,false,,,,বাৰ্ষিক
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-05-21T09:00,true,t0,,,পুৱা ৯ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,TIME,2026-05-21T16:00,true,t0,,,বিয়লি ৪ বজালৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2026-06-05,true,t0,,,আহি থকা ৫ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,DATE,2025,true,t0,,,যোৱা বছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-08-03,true,t0,,,৩ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-08-03T10:00,true,t0,,,পুৱা ১০ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P3M,false,,,,আহি থকা তিনি মাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,TIME,2026-08-02TNI,true,t0,,,যোৱা দেওবাৰ নিশাৰে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-08-24,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-08-27,true,t0,ON_OR_BEFORE,,২৭ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P1W,false,,,,বিগত সপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P2D,false,,,,আহিলে দুদিন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-08-16,true,t0,,,১৬ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-08-16T20:00,true,t0,,,নিশা ৮ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,PT3H,false,,APPROX,,প্ৰায় ৩ ঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2025,true,t0,,,গতবছৰতকৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2026-09-17,true,t0,,,আহি থকা ১৭ ছেপ্টেম্বৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-03,true,t0,,,৩ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-07-20,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DATE,2026-08-09,true,t0,ON_OR_BEFORE,,৯ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,PXM,false,,APPROX,,বিগত কেইমাহমানত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-08-20TEV,true,t0,,,২০ আগষ্ট তাৰিখে সন্ধিয়া
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DURATION,PT5H,false,,APPROX,,প্ৰায় ৫ ঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-08-20TNI,true,t0,,,গভীৰ ৰাতিলৈকে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P1W,false,,,,বিগত এসপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DURATION,PXD,false,,,,আহিলে বৰষুণৰ দিনবোৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-28,true,t0,,,২৮ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2025,true,t0,,,যোৱা বছৰতকৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-06-29TMO,true,t0,,,আজি পুৱা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-W28,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-06-23TNI,true,t0,,,২৩ জুন তাৰিখে নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-06-23T16:00,true,t0,,,বিয়লি ৪ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-06-23T19:00,true,t0,APPROX,,নিশা প্ৰায় ৭ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P3Y,false,,,,বিগত তিনি বছৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2027,true,t0,,,আহিলে বছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,DURATION,P1M,false,,,,এমাহ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-03,true,t0,,,৩ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-06-05TNI,true,t0,,,আজি নিশালৈকে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P2D,false,,,,বিগত দুদিনে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-W24,true,t0,ON_OR_BEFORE,,আহিলে সপ্তাহৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-08-06,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-08-06T11:00,true,t0,,,পুৱা ১১ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,PT2H,false,,APPROX,,প্ৰায় দুঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P1M,false,,,,যোৱা এমাহ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DURATION,P10D,false,,,,আহিলে ১০ দিনৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-01,true,t0,,,১ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-06-01,true,t0,,,যোৱা সোমবাৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DATE,PRESENT_REF,true,t0,,,বৰ্তমানলৈকে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,PXD,false,,APPROX,,আহি থকা কেইদিনমানৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DURATION,P1W,false,,,,বিগত এসপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DURATION,PXD,false,,APPROX,,যোৱা কেইদিনমানত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-06-26TMO,true,t0,,,আজি পুৱা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-W27,true,t0,,,আহিলে সপ্তাহলৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DURATION,PXD,false,,APPROX,,আহি থকা কেইদিনমানৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-05-23,true,t0,,,২৩ মে'
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-05-23T10:00,true,t0,,,পুৱা ১০ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,PT1H,false,,APPROX,,প্ৰায় এঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P4M,false,,,,আহি থকা ৪ মাহৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2025,true,t0,,,যোৱা বছৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-08-30TNI,true,t0,,,৩০ আগষ্ট তাৰিখে নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-08-30T23:00,true,t0,APPROX,,প্ৰায় নিশা ১১ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,PT1H,false,,APPROX,,প্ৰায় এঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,PRESENT_REF,true,t0,,,এতিয়াও
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DURATION,P2D,false,,,,আহি থকা দুদিনৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,DURATION,P1Y,false,,,,বিগত এবছৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DURATION,P17D,false,,,,বিগত ১৭ দিন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-06,true,t0,,,যোৱা মাহৰে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DATE,2026-07-20,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P7D,false,,,,আহিলে সাতদিনৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,SET,P1D,false,,,,প্ৰতিদিনে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-30,true,t0,,,৩০ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-06-30T10:00,true,t0,,,পুৱা ১০ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DATE,FUTURE_REF,true,t0,,,আহি থকা ৰবি শস্যৰ বতৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2025,true,t0,,,যোৱা বছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-07-22,true,t0,,,২২ জুলাই
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DURATION,P4D,false,,,,বিগত ৪ দিনে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-07-22TNI,true,t0,,,যোৱা বুধবাৰ নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-08-03,true,t0,ON_OR_BEFORE,,৩ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2025,true,t0,,,গতবছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,TIME,2026-07-29TMO,true,t0,,,আজি পুৱাৰ ভাগত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-07-11,true,t0,,,১১ জুলাই
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-07-11T18:00,true,t0,APPROX,,বিয়লি প্ৰায় ৬ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P1M,false,,,,যোৱা এমাহৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-07-12,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-08-22TNI,true,t0,,,২২ আগষ্ট তাৰিখে নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-08-23,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P3W,false,,,,বিগত তিনি সপ্তাহ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-08-24,true,t0,,,২৪ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-07-07,true,t0,,,৭ জুলাই
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,SET,P1Y,false,,,,বাৰ্ষিক
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-07-07T09:00,true,t0,,,পুৱা ৯ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,TIME,2026-07-07T16:00,true,t0,,,বিয়লি ৪ বজালৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2026-07-19,true,t0,,,আহি থকা ১৯ জুলাই
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,DATE,2025,true,t0,,,যোৱা বছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-08-18,true,t0,,,১৮ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-08-18T10:00,true,t0,,,পুৱা ১০ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P3M,false,,,,আহি থকা তিনি মাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,TIME,2026-08-17TNI,true,t0,,,যোৱা সোমবাৰ নিশাৰে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-07-26,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-07-29,true,t0,ON_OR_BEFORE,,২৯ জুলাই
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P1W,false,,,,বিগত সপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P2D,false,,,,আহিলে দুদিন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-07,true,t0,,,৭ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-06-07T20:00,true,t0,,,নিশা ৮ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,PT4H,false,,APPROX,,প্ৰায় ৪ ঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2025,true,t0,,,গতবছৰতকৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2026-07-17,true,t0,,,আহি থকা ১৭ জুলাই
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-04-17,true,t0,,,১৭ এপ্ৰিল
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-06-08,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DATE,2026-06-18,true,t0,ON_OR_BEFORE,,১৮ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,PXM,false,,APPROX,,বিগত কেইমাহমানত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-08-17TEV,true,t0,,,১৭ আগষ্ট তাৰিখে সন্ধিয়া
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DURATION,PT5H,false,,APPROX,,প্ৰায় ৫ ঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-08-17TNI,true,t0,,,গভীৰ ৰাতিলৈকে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P1W,false,,,,বিগত এসপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DURATION,PXD,false,,,,আহিলে বৰষুণৰ দিনবোৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-05-24,true,t0,,,২৪ মে'
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2025,true,t0,,,যোৱা বছৰতকৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-05-24TMO,true,t0,,,আজি পুৱা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-W22,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-07-16TNI,true,t0,,,১৬ জুলাই তাৰিখে নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-07-16T16:00,true,t0,,,বিয়লি ৪ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-07-16T19:00,true,t0,APPROX,,নিশা প্ৰায় ৭ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P3Y,false,,,,বিগত তিনি বছৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2027,true,t0,,,আহিলে বছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,DURATION,P1M,false,,,,এমাহ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-05-27,true,t0,,,২৭ মে'
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-05-29TNI,true,t0,,,আজি নিশালৈকে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P2D,false,,,,বিগত দুদিনে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-W23,true,t0,ON_OR_BEFORE,,আহিলে সপ্তাহৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-09,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-06-09T11:00,true,t0,,,পুৱা ১১ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,PT2H,false,,APPROX,,প্ৰায় দুঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P1M,false,,,,যোৱা এমাহ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DURATION,P4D,false,,,,আহিলে ৪ দিনৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-30,true,t0,,,৩০ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-06-30,true,t0,,,যোৱা মঙ্গলবাৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DATE,PRESENT_REF,true,t0,,,বৰ্তমানলৈকে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,PXD,false,,APPROX,,আহি থকা কেইদিনমানৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DURATION,P1W,false,,,,বিগত এসপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DURATION,PXD,false,,APPROX,,যোৱা কেইদিনমানত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-08-16TMO,true,t0,,,আজি পুৱা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-W34,true,t0,,,আহিলে সপ্তাহলৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DURATION,PXD,false,,APPROX,,আহি থকা কেইদিনমানৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-07-21,true,t0,,,২১ জুলাই
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-07-21T10:00,true,t0,,,পুৱা ১০ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,PT1H,false,,APPROX,,প্ৰায় এঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P4M,false,,,,আহি থকা ৪ মাহৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2025,true,t0,,,যোৱা বছৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-06-26TNI,true,t0,,,২৬ জুন তাৰিখে নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-06-26T23:00,true,t0,APPROX,,প্ৰায় নিশা ১১ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,PT1H,false,,APPROX,,প্ৰায় এঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,PRESENT_REF,true,t0,,,এতিয়াও
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DURATION,P2D,false,,,,আহি থকা দুদিনৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,DURATION,P1Y,false,,,,বিগত এবছৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DURATION,P20D,false,,,,বিগত ২০ দিন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-07,true,t0,,,যোৱা মাহৰে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DATE,2026-08-30,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P7D,false,,,,আহিলে সাতদিনৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,SET,P1D,false,,,,প্ৰতিদিনে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-08-10,true,t0,,,১০ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-08-10T10:00,true,t0,,,পুৱা ১০ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DATE,FUTURE_REF,true,t0,,,আহি থকা ৰবি শস্যৰ বতৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2025,true,t0,,,যোৱা বছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-09,true,t0,,,৯ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DURATION,P4D,false,,,,বিগত ৪ দিনে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-06-09TNI,true,t0,,,যোৱা মঙ্গলবাৰ নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-06-17,true,t0,ON_OR_BEFORE,,১৭ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2025,true,t0,,,গতবছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,TIME,2026-06-14TMO,true,t0,,,আজি পুৱাৰ ভাগত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-07-17,true,t0,,,১৭ জুলাই
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-07-17T18:00,true,t0,APPROX,,বিয়লি প্ৰায় ৬ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P1M,false,,,,যোৱা এমাহৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-07-17,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-08-11TNI,true,t0,,,১১ আগষ্ট তাৰিখে নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-08-12,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P3W,false,,,,বিগত তিনি সপ্তাহ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-08-14,true,t0,,,১৪ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-08-12,true,t0,,,১২ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,SET,P1Y,false,,,,বাৰ্ষিক
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-08-12T09:00,true,t0,,,পুৱা ৯ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,TIME,2026-08-12T16:00,true,t0,,,বিয়লি ৪ বজালৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2026-08-28,true,t0,,,আহি থকা ২৮ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,DATE,2025,true,t0,,,যোৱা বছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-05-25,true,t0,,,২৫ মে'
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-05-25T10:00,true,t0,,,পুৱা ১০ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P3M,false,,,,আহি থকা তিনি মাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,TIME,2026-05-24TNI,true,t0,,,যোৱা দেওবাৰ নিশাৰে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-08-24,true,t0,,,আজি
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-08-28,true,t0,ON_OR_BEFORE,,২৮ আগষ্ট
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P1W,false,,,,বিগত সপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P2D,false,,,,আহিলে দুদিন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-05-27,true,t0,,,২৭ মে'
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-05-27T20:00,true,t0,,,নিশা ৮ বজাৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,PT5H,false,,APPROX,,প্ৰায় ৫ ঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2025,true,t0,,,গতবছৰতকৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2026-07-03,true,t0,,,আহি থকা ৩ জুলাই
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-04-21,true,t0,,,২১ এপ্ৰিল
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2026-06-09,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DATE,2026-06-22,true,t0,ON_OR_BEFORE,,২২ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,PXM,false,,APPROX,,বিগত কেইমাহমানত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-06-24TEV,true,t0,,,২৪ জুন তাৰিখে সন্ধিয়া
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DURATION,PT4H,false,,APPROX,,প্ৰায় ৪ ঘণ্টা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-06-24TNI,true,t0,,,গভীৰ ৰাতিলৈকে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P1W,false,,,,বিগত এসপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DURATION,PXD,false,,,,আহিলে বৰষুণৰ দিনবোৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-10,true,t0,,,১০ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,DATE,2025,true,t0,,,যোৱা বছৰতকৈ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-06-11TMO,true,t0,,,আজি পুৱা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-W25,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,TIME,2026-07-10TNI,true,t0,,,১০ জুলাই তাৰিখে নিশা
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-07-10T16:00,true,t0,,,বিয়লি ৪ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,TIME,2026-07-10T19:00,true,t0,APPROX,,নিশা প্ৰায় ৭ বজাত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DURATION,P3Y,false,,,,বিগত তিনি বছৰত
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t5,DATE,2027,true,t0,,,আহিলে বছৰৰ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t6,DURATION,P1M,false,,,,এমাহ
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t1,DATE,2026-06-03,true,t0,,,৩ জুন
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t2,TIME,2026-06-04TNI,true,t0,,,আজি নিশালৈকে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t3,DURATION,P2D,false,,,,বিগত দুদিনে
+datasets\assamese_temporal_corpus_A_TIMEX3.html,t4,DATE,2026-W24,true,t0,ON_OR_BEFORE,,আহিলে সপ্তাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-07-02,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-07-02T10:00,true,t0,,,পুৱা ১০ বজাৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,PT2H,false,,APPROX,,প্ৰায় ২ ঘণ্টা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P2M,false,,,,যোৱা ২ মাহ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DATE,2026-W28,true,t0,ON_OR_BEFORE,,আহি থকা সপ্তাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-07-29,true,t0,,,২৯ জুলাই
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-07-29TMO,true,t0,,,আজি পুৱাই
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2026-W32,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-07-13,true,t0,,,১৩ জুলাই
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P1Y,false,,,,বছৰজোৰা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2025,true,t0,,,যোৱা বছৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P1Y,false,,,,এবছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,TIME,2026-07-13T18:00,true,t0,,,সন্ধিয়া ৬ বজাৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t6,TIME,2026-07-13T21:00,true,t0,APPROX,,নিশা প্ৰায় ৯ বজালৈ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t7,DATE,2027,true,t0,,,আহি থকা বছৰতো
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,TIME,2026-07-26TNI,true,t0,,,২৬ জুলাই তাৰিখে নিশা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-07-27,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,PXW,false,,APPROX,,বিগত কেইসপ্তাহমান
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,PXD,false,,APPROX,,আহি থকা কেইদিনমানৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-05-24,true,t0,,,২৪ মে'
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-05-26,true,t0,,,২৬ মে' তাৰিখে মঙ্গলবাৰৰে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,PRESENT_REF,true,t0,,,বৰ্তমানলৈকে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-05-28,true,t0,ON_OR_BEFORE,,আজিলৈকে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,TIME,2026-07-25TEV,true,t0,,,২৫ জুলাই তাৰিখে সন্ধিয়া
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,PT4H,false,,APPROX,,প্ৰায় ৪ ঘণ্টা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,TIME,2026-07-25TNI,true,t0,,,গভীৰ ৰাতিলৈকে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P1W,false,,,,বিগত এসপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DATE,FUTURE_REF,true,t0,,,আহিলে বৰষুণৰ বতৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-05-23,true,t0,,,২৩ মে'
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-08-20,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P7D,false,,,,৭ দিনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-08-27,true,t0,ON_OR_BEFORE,,২৭ আগষ্ট
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,PXM,false,,APPROX,,বিগত কেইমাহমানত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t6,DURATION,P1Y,false,,,,যোৱা এবছৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-08-01,true,t0,,,১ আগষ্ট
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P1M,false,,,,বিগত এমাহ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2026-08-03,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,PXD,false,,APPROX,,আহি থকা কেইদিনমানৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-06-04,true,t0,,,৪ জুন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-06-04T11:00,true,t0,,,পুৱা ১১ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2025,true,t0,,,যোৱা বছৰতকৈ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2027,true,t0,,,আহি থকা বছৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DURATION,P5Y,false,,,,বিগত ৫ বছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-06-03,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2023,false,,,,২০২৩ চনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P1M,false,,,,আহি থকা এমাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-06-22,true,t0,,,২২ জুন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P1W,false,,,,যোৱা এসপ্তাহতে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,SET,XXXX-WXX-6,false,,,,প্ৰতি শনিবাৰে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,FUTURE_REF,true,t0,,,আহি থকা মাহবোৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,TIME,2026-08-21TNI,true,t0,,,২১ আগষ্ট তাৰিখে নিশা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-08-21T15:00,true,t0,,,বিয়লি ৩ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,TIME,2026-08-21T21:00,true,t0,APPROX,,নিশা প্ৰায় ৯ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-07,true,t0,,,যোৱা মাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,P1M,false,,APPROX,,প্ৰায় এমাহ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t6,DATE,2027,true,t0,,,আহিলে বছৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-08-27,true,t0,,,আহি থকা ২৭ আগষ্ট
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-08-28T00:00,true,t0,,,নিশা ১২ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,TIME,2026-08-27TEV,true,t0,,,সন্ধিয়াৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2025,true,t0,,,যোৱা বছৰতকৈ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,P1W,false,,,,বিগত সপ্তাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-07-28,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,FUTURE_REF,true,t0,,,আহি থকা বৰষুণৰ বতৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P5Y,false,,,,বিগত পাঁচ বছৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P1M,false,,,,আহিলে মাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DURATION,P4M,false,,APPROX,,প্ৰায় ৪ মাহেই
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P3Y,false,,,,বিগত তিনি বছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,PAST_REF,true,t0,,,যোৱা বৰষুণৰ বতৰতো
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,FUTURE_REF,true,t0,,,আহি থকা শুকান বতৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2027,true,t0,,,আহিলে বছৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P6M,false,,,,বিগত ছমাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,FUTURE_REF,true,t0,,,আহি থকা মাহবোৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-08-19,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P3M,false,,,,আহি থকা তিনি মাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2025,true,t0,,,যোৱা বছৰতো
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-06-04,true,t0,,,৪ জুন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-06-17,true,t0,,,আহি থকা ১৭ জুন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P30Y,false,,,,যোৱা তিনি দশক
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-06-05,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-W33,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-07,true,t0,,,যোৱা মাহতে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2026-08-06,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P8D,false,,,,৮ দিনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,P3D,false,,,,তিনিদিন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-07-13,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P7D,false,,,,আহি থকা ৭ দিনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,PAST_REF,true,t0,,,যোৱা নিৰ্বাচনতো
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-05-18,true,t0,,,১৮ মে'
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-05-18T09:00,true,t0,,,পুৱা ৯ বজাৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P13Y,false,,,,বিগত ১৩ বছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-W22,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-08-27,true,t0,,,২৭ আগষ্ট
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P10Y,false,,,,দীৰ্ঘ ১০ বছৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P1Y,false,,,,যোৱা এবছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-09,true,t0,,,আহি থকা মাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,TIME,2026-06-09TNI,true,t0,,,৯ জুন তাৰিখে নিশা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P3M,false,,,,তিনিমাহজুৰি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,TIME,2026-06-09T20:00,true,t0,,,নিশা ৮ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,PXM,false,,APPROX,,যোৱা কেইমাহমান
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DATE,2026-W25,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DURATION,P105Y,false,,APPROX,,১০৫ বছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-05-26,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P6M,false,,,,আহি থকা ৬ মাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,PAST_REF,true,t0,,,যোৱা বৰষুণৰ বতৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,PXY,false,,APPROX,,বিগত কেইবছৰমান
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-07-21,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P1M,false,,,,আহি থকা এমাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,PAST_REF,true,t0,,,যোৱা নিৰ্বাচনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,SET,XXXX-WXX-7,false,,,,প্ৰতি দেওবাৰে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DATE,2026-W31,true,t0,ON_OR_BEFORE,,আহি থকা সপ্তাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-05-24,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-05-24T10:00,true,t0,,,পুৱা ১০ বজাৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,PT2H,false,,APPROX,,প্ৰায় ২ ঘণ্টা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P3M,false,,,,যোৱা ৩ মাহ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DATE,2026-W22,true,t0,ON_OR_BEFORE,,আহি থকা সপ্তাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-08-15,true,t0,,,১৫ আগষ্ট
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-08-15TMO,true,t0,,,আজি পুৱাই
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2026-W34,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-05-25,true,t0,,,২৫ মে'
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P1Y,false,,,,বছৰজোৰা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2025,true,t0,,,যোৱা বছৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P1Y,false,,,,এবছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,TIME,2026-05-25T18:00,true,t0,,,সন্ধিয়া ৬ বজাৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t6,TIME,2026-05-25T21:00,true,t0,APPROX,,নিশা প্ৰায় ৯ বজালৈ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t7,DATE,2027,true,t0,,,আহি থকা বছৰতো
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,TIME,2026-07-19TNI,true,t0,,,১৯ জুলাই তাৰিখে নিশা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-07-19,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,PXW,false,,APPROX,,বিগত কেইসপ্তাহমান
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,PXD,false,,APPROX,,আহি থকা কেইদিনমানৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-06-24,true,t0,,,২৪ জুন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-06-26,true,t0,,,২৬ জুন তাৰিখে শুক্ৰবাৰৰে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,PRESENT_REF,true,t0,,,বৰ্তমানলৈকে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-06-28,true,t0,ON_OR_BEFORE,,আজিলৈকে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,TIME,2026-07-18TEV,true,t0,,,১৮ জুলাই তাৰিখে সন্ধিয়া
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,PT4H,false,,APPROX,,প্ৰায় ৪ ঘণ্টা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,TIME,2026-07-18TNI,true,t0,,,গভীৰ ৰাতিলৈকে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P1W,false,,,,বিগত এসপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DATE,FUTURE_REF,true,t0,,,আহিলে বৰষুণৰ বতৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-07-02,true,t0,,,২ জুলাই
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-08-22,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P7D,false,,,,৭ দিনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-08-29,true,t0,ON_OR_BEFORE,,২৯ আগষ্ট
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,PXM,false,,APPROX,,বিগত কেইমাহমানত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t6,DURATION,P1Y,false,,,,যোৱা এবছৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-06-24,true,t0,,,২৪ জুন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P1M,false,,,,বিগত এমাহ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2026-06-26,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,PXD,false,,APPROX,,আহি থকা কেইদিনমানৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-06-11,true,t0,,,১১ জুন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-06-11T11:00,true,t0,,,পুৱা ১১ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2025,true,t0,,,যোৱা বছৰতকৈ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2027,true,t0,,,আহি থকা বছৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DURATION,P3Y,false,,,,বিগত ৩ বছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-06-27,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2022,false,,,,২০২২ চনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P1M,false,,,,আহি থকা এমাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-06-13,true,t0,,,১৩ জুন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P1W,false,,,,যোৱা এসপ্তাহতে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,SET,XXXX-WXX-6,false,,,,প্ৰতি শনিবাৰে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,FUTURE_REF,true,t0,,,আহি থকা মাহবোৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,TIME,2026-05-24TNI,true,t0,,,২৪ মে' তাৰিখে নিশা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-05-24T15:00,true,t0,,,বিয়লি ৩ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,TIME,2026-05-24T21:00,true,t0,APPROX,,নিশা প্ৰায় ৯ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-04,true,t0,,,যোৱা মাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,P1M,false,,APPROX,,প্ৰায় এমাহ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t6,DATE,2027,true,t0,,,আহিলে বছৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-08-16,true,t0,,,আহি থকা ১৬ আগষ্ট
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-08-17T00:00,true,t0,,,নিশা ১২ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,TIME,2026-08-16TEV,true,t0,,,সন্ধিয়াৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2025,true,t0,,,যোৱা বছৰতকৈ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,P1W,false,,,,বিগত সপ্তাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-08-21,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,FUTURE_REF,true,t0,,,আহি থকা বৰষুণৰ বতৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P5Y,false,,,,বিগত পাঁচ বছৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P1M,false,,,,আহিলে মাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DURATION,P4M,false,,APPROX,,প্ৰায় ৪ মাহেই
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P3Y,false,,,,বিগত তিনি বছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,PAST_REF,true,t0,,,যোৱা বৰষুণৰ বতৰতো
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,FUTURE_REF,true,t0,,,আহি থকা শুকান বতৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2027,true,t0,,,আহিলে বছৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P6M,false,,,,বিগত ছমাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,FUTURE_REF,true,t0,,,আহি থকা মাহবোৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-06-18,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P3M,false,,,,আহি থকা তিনি মাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2025,true,t0,,,যোৱা বছৰতো
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-07-03,true,t0,,,৩ জুলাই
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-07-23,true,t0,,,আহি থকা ২৩ জুলাই
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P30Y,false,,,,যোৱা তিনি দশক
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-07-04,true,t0,,,আজি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-W32,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-06,true,t0,,,যোৱা মাহতে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,2026-07-28,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,P8D,false,,,,৮ দিনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,P3D,false,,,,তিনিদিন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-08-20,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P7D,false,,,,আহি থকা ৭ দিনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,PAST_REF,true,t0,,,যোৱা নিৰ্বাচনতো
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-06-09,true,t0,,,৯ জুন
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,TIME,2026-06-09T09:00,true,t0,,,পুৱা ৯ বজাৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P9Y,false,,,,বিগত ৯ বছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-W25,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-05-22,true,t0,,,২২ মে'
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P13Y,false,,,,দীৰ্ঘ ১৩ বছৰৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P1Y,false,,,,যোৱা এবছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,2026-06,true,t0,,,আহি থকা মাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,TIME,2026-07-24TNI,true,t0,,,২৪ জুলাই তাৰিখে নিশা
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P3M,false,,,,তিনিমাহজুৰি
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,TIME,2026-07-24T20:00,true,t0,,,নিশা ৮ বজাত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DURATION,PXM,false,,APPROX,,যোৱা কেইমাহমান
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DATE,2026-W31,true,t0,,,আহি থকা সপ্তাহত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DURATION,P139Y,false,,APPROX,,১৩৯ বছৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DATE,2026-07-15,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DURATION,P5M,false,,,,আহি থকা ৫ মাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,DATE,PAST_REF,true,t0,,,যোৱা বৰষুণৰ বতৰত
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DURATION,PXY,false,,APPROX,,বিগত কেইবছৰমান
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t1,DATE,2026-05-17,true,t0,,,আজিৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t2,DURATION,P1M,false,,,,আহি থকা এমাহৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t3,DATE,PAST_REF,true,t0,,,যোৱা নিৰ্বাচনৰ
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t4,SET,XXXX-WXX-7,false,,,,প্ৰতি দেওবাৰে
+datasets\assamese_temporal_corpus_C_TIMEX3.html,t5,DATE,2026-W21,true,t0,ON_OR_BEFORE,,আহি থকা সপ্তাহৰ
+datasets\documents_15_TIMEX3.html,t1,DATE,2026-06-22,true,t0,,,২২ জুন
+datasets\documents_15_TIMEX3.html,t2,DATE,2026-06-26,true,t0,,,২৬ জুন
+datasets\documents_15_TIMEX3.html,t3,DATE,2026-06-22,true,t0,,,২২ জুন
+datasets\documents_15_TIMEX3.html,t4,DATE,2026-06-26,true,t0,,,২৬ জুন
+datasets\documents_15_TIMEX3.html,t5,DATE,PRESENT_REF,true,t0,,,এই সময়ছোৱাত
+datasets\documents_15_TIMEX3.html,t1,DATE,2026-06-22,true,t0,,,আজিৰে
+datasets\documents_15_TIMEX3.html,t2,DURATION,P3D,false,,,,তিনিদিনৰ
+datasets\documents_15_TIMEX3.html,t3,DATE,2026-06-25,true,t0,,,২৫ জুনত
+datasets\documents_15_TIMEX3.html,t4,TIME,2026-06-26T00:02:13,true,t0,,,২৫ জুনৰ নিশা ১২ বাজি ২ মিনিট ১৩ ছেকেণ্ডত
+datasets\documents_15_TIMEX3.html,t5,DATE,2026-06-26,true,t0,,,২৬ জুনত
+datasets\documents_15_TIMEX3.html,t6,DATE,2026-06-22,true,t0,,,আজিৰে
+datasets\documents_15_TIMEX3.html,t7,DATE,2026-06-22,true,t0,,,আজি
+datasets\documents_15_TIMEX3.html,t8,TIME,2026-06-22T21:08:42,true,t0,,,নিশা ৯ বাজি ৮ মিনিট ৪২ ছেকেণ্ডত
+datasets\documents_15_TIMEX3.html,t9,DURATION,P3D,false,,,,তিনিদিনৰ
+datasets\documents_15_TIMEX3.html,t10,DURATION,P3D,false,,,,তিনিদিনৰ
+datasets\documents_15_TIMEX3.html,t11,DATE,2026-06-25,true,t0,,,২৫ জুনত
+datasets\documents_15_TIMEX3.html,t12,TIME,2026-06-26T00:02:13,true,t0,,,২৫ জুনৰ নিশা ১২ বাজি ২ মিনিট ১৩ ছেকেণ্ডত
+datasets\documents_15_TIMEX3.html,t13,DATE,2026-06-26,true,t0,,,২৬ জুনত
+datasets\documents_15_TIMEX3.html,t14,DURATION,P3D,false,,,,এই তিনিটা দিন
+datasets\documents_15_TIMEX3.html,t15,SET,P1Y,false,,,,বাৰ্ষিক
+datasets\documents_15_TIMEX3.html,t16,DATE,2026-06-22,true,t0,,,আজিৰে
+datasets\documents_15_TIMEX3.html,t17,TIME,2026-06-22T18:00,true,t0,AFTER,,সন্ধিয়া ৬ বজাৰ
+datasets\documents_15_TIMEX3.html,t1,DATE,2026-06-26,true,t0,,,২৬ জুনত
+datasets\documents_15_TIMEX3.html,t2,TIME,2026-06-22T21:08:42,true,t0,,,আজি নিশা ৯ বাজি ৮ মিনিট ৪২ ছেকেণ্ডত
+datasets\documents_15_TIMEX3.html,t3,DATE,2026-06-26,true,t0,,,২৬ জুনত
+datasets\documents_15_TIMEX3.html,t4,DATE,07XX,false,,APPROX,,অষ্টম-নৱম শতিকাতে
+datasets\documents_15_TIMEX3.html,t5,DATE,1745,false,,,,১৭৪৫ খ্ৰীষ্টাব্দত
+datasets\documents_15_TIMEX3.html,t6,DURATION,P280Y,false,,APPROX,,বিগত প্ৰায় ২৮০ বছৰ
+datasets\documents_15_TIMEX3.html,t1,DURATION,P5M,false,,,,৫ মাহ
+datasets\documents_15_TIMEX3.html,t2,DURATION,P5M,false,,,,৫ মাহ
+datasets\documents_15_TIMEX3.html,t3,DATE,2026-08-30,true,t0,ON_OR_BEFORE,,এইপৰ্যন্ত
+datasets\documents_15_TIMEX3.html,t4,DATE,2026-08-30,true,t0,ON_OR_BEFORE,,এতিয়ালৈকে
+datasets\documents_15_TIMEX3.html,t5,DATE,PRESENT_REF,true,t0,,,বৰ্তমানেও
+datasets\documents_15_TIMEX3.html,t6,DURATION,P5M,false,,,,পাঁচ মাহ
+datasets\documents_15_TIMEX3.html,t7,DATE,2000,false,,AFTER,,২০০০ চনৰ
+datasets\documents_15_TIMEX3.html,t8,DATE,2000,false,,AFTER,,২০০০ চনৰ
+datasets\documents_15_TIMEX3.html,t9,DATE,2000,false,,AFTER,,২০০০ চনৰ
+datasets\documents_15_TIMEX3.html,t10,DATE,1975,false,,AFTER,,১৯৭৫ চনৰ
+datasets\documents_15_TIMEX3.html,t11,DATE,1990,false,,,,১৯৯০
+datasets\documents_15_TIMEX3.html,t12,DATE,2020,false,,,,২০২০
+datasets\documents_15_TIMEX3.html,t13,DATE,2026-03,true,t0,,,মাৰ্চত
+datasets\documents_15_TIMEX3.html,t14,DATE,1990,false,,,,১৯৯০
+datasets\documents_15_TIMEX3.html,t15,DATE,2020,false,,,,২০২০
+datasets\documents_15_TIMEX3.html,t16,DATE,2000,false,,AFTER,,২০০০ চনৰ
+datasets\documents_15_TIMEX3.html,t17,DATE,PRESENT_REF,true,t0,,,এতিয়াও
+datasets\documents_15_TIMEX3.html,t18,DATE,PRESENT_REF,true,t0,,,এতিয়াও
+datasets\documents_15_TIMEX3.html,t19,DATE,PRESENT_REF,true,t0,,,এতিয়াও
+datasets\documents_15_TIMEX3.html,t20,DATE,PRESENT_REF,true,t0,,,এতিয়াও
+datasets\documents_15_TIMEX3.html,t21,DURATION,P30Y,false,,,,তিনিটা দশকৰ
+datasets\documents_15_TIMEX3.html,t1,DURATION,P77Y,false,,,,৭৭ বছৰীয়া
+datasets\documents_15_TIMEX3.html,t2,DURATION,P77Y,false,,,,৭৭ বছৰীয়া
+datasets\documents_15_TIMEX3.html,t3,DURATION,P77Y,false,,,,৭৭ বছৰীয়া
+datasets\documents_15_TIMEX3.html,t4,DURATION,P77Y,false,,,,৭৭ বছৰীয়া
+datasets\documents_15_TIMEX3.html,t5,DATE,2021,false,,,,২০২১ চনতে
+datasets\documents_15_TIMEX3.html,t6,DATE,2026-08-05,false,,,,২০২৬ চনৰ ৫ আগষ্টত
+datasets\documents_15_TIMEX3.html,t7,DATE,PRESENT_REF,true,t0,,,বৰ্তমানৰ
+datasets\documents_15_TIMEX3.html,t8,DATE,FUTURE_REF,true,t0,,,ভৱিষ্যতে
+datasets\documents_15_TIMEX3.html,t9,DURATION,P77Y,false,,,,৭৭ বছৰীয়া
+datasets\documents_15_TIMEX3.html,t10,DATE,PRESENT_REF,true,t0,,,এতিয়াও
+datasets\documents_15_TIMEX3.html,t11,DURATION,P32Y,false,,APPROX,,প্ৰায় ৩২ বছৰ
+datasets\documents_15_TIMEX3.html,t12,DATE,2011,false,,,,২০১১ চনত
+datasets\documents_15_TIMEX3.html,t13,DATE,2020-12-06,false,,,,২০২০ চনৰ ৬ ডিচেম্বৰত
+datasets\documents_15_TIMEX3.html,t14,DURATION,P33Y,false,,,,৩৩ বছৰ
+datasets\documents_15_TIMEX3.html,t15,DATE,1977-01-03,false,,,,১৯৭৭ চনৰ ৩ জানুৱাৰীত
+datasets\documents_15_TIMEX3.html,t16,DURATION,P33Y,false,,APPROX,,প্ৰায় ৩৩ বছৰ
+datasets\documents_15_TIMEX3.html,t17,DATE,2010,false,,,,২০১০ চনত
+datasets\documents_15_TIMEX3.html,t18,DURATION,P77Y,false,,,,৭৭ বছৰ
+datasets\documents_15_TIMEX3.html,t1,DATE,2026,true,t0,,,চলিত বৰ্ষৰ
+datasets\documents_15_TIMEX3.html,t2,DATE,2026-08-30,true,t0,,,৩০ আগষ্টৰ
+datasets\documents_15_TIMEX3.html,t3,DATE,2026-09-02,true,t0,,,২ ছেপ্টম্বৰলৈ
+datasets\documents_15_TIMEX3.html,t1,DURATION,P37Y,false,,,,৩৭ বছৰীয়া
+datasets\documents_15_TIMEX3.html,t2,DATE,PRESENT_REF,true,t0,,,বৰ্তমান
+datasets\documents_15_TIMEX3.html,t1,DURATION,P2D,false,,,,দুদিনধৰি
+datasets\documents_15_TIMEX3.html,t2,TIME,2026-09-02TAF,true,t0,,,বুধবাৰে দুপৰীয়া
+datasets\documents_15_TIMEX3.html,t3,DATE,2026-09-17,true,t0,ON_OR_BEFORE,,১৭ ছেপ্টেম্বৰলৈকে
+datasets\documents_15_TIMEX3.html,t1,DATE,2026-09-03,true,t0,,,এতিয়াৰে
+datasets\documents_15_TIMEX3.html,t2,SET,P1W,false,,EQUAL_OR_MORE,,সপ্তাহত অন্ততঃ ৩ দিন
+datasets\documents_15_TIMEX3.html,t1,DATE,2026-04-30,false,,,,২০২৬ৰ ৩০ এপ্ৰিলত
+datasets\documents_15_TIMEX3.html,t2,DURATION,P3Y,false,,,,তিনি বছৰ
+datasets\documents_15_TIMEX3.html,t1,DURATION,P38Y,false,,APPROX,,প্ৰায় ৩৮-৩৯ বছৰ
+datasets\documents_15_TIMEX3.html,t1,DURATION,P2D,false,,,,২ দিনীয়া
+datasets\documents_15_TIMEX3.html,t2,TIME,2026-08-30TNI,true,t0,,,দেওবাৰে নিশা
+datasets\documents_15_TIMEX3.html,t1,DATE,2026,false,,,,২০২৬ৰ
+datasets\documents_15_TIMEX3.html,t2,DATE,2026-09-03,false,,,,৩ ছেপ্তেম্বৰ ২০২৬ত
+datasets\documents_15_TIMEX3.html,t1,DURATION,P2D,false,,,,দুুদিনৰ
+datasets\documents_15_TIMEX3.html,t2,DURATION,PXD,false,,APPROX,,কিছুদিনৰ
+datasets\documents_15_TIMEX3.html,t3,DATE,2026-08-31,false,,,,"৩১আগষ্ট, ২০২৬ত"
+datasets\documents_15_TIMEX3.html,t4,DATE,2026-07-21,false,,,,"২১জুলাই, ২০২৬ত"
+datasets\documents_15_TIMEX3.html,t5,DATE,2026-08-31,true,t0,,,আজিও
+datasets\documents_15_TIMEX3.html,t6,DURATION,PXY,false,,APPROX,,যোৱা কেইটামান বছৰতে
+datasets\documents_15_TIMEX3.html,t7,DURATION,P20Y,false,,,,যোৱা ২০ টা বছৰত
+datasets\documents_15_TIMEX3.html,t8,DATE,2026-08-31,true,t0,,,এতিয়াৰ
+datasets\documents_15_TIMEX3.html,t9,DURATION,P6Y,false,,,,৬ বছৰ
+datasets\documents_15_TIMEX3.html,t10,DURATION,PXY,false,,APPROX,,কেইবা বছৰো
+datasets\documents_15_TIMEX3.html,t11,DURATION,P6Y,false,,,,ছবছৰত
+datasets\documents_15_TIMEX3.html,t12,DURATION,P10Y,false,,,,১০ বছৰ
+datasets\documents_15_TIMEX3.html,t13,SET,P1M,false,,,,প্ৰতিমাহে
+datasets\documents_15_TIMEX3.html,t14,DATE,2000-12-14,false,,,,২০০০ চনৰ ১৪ ডিচেম্বৰত
+datasets\documents_15_TIMEX3.html,t15,DATE,2004-10-16,false,,,,২০০৪ চনৰ ১৬ অক্টোবৰত
+datasets\documents_15_TIMEX3.html,t16,DURATION,P17Y,false,,,,১৭ বছৰ
+datasets\documents_15_TIMEX3.html,t17,DATE,2005-05-01,false,,,,২০০৫ চনৰ ১ মে’ত
+datasets\documents_15_TIMEX3.html,t18,DATE,2022,false,,,,২০২২ চনত
+datasets\documents_15_TIMEX3.html,t1,DURATION,P30Y,false,,,,৩০ বছৰ
+datasets\documents_15_TIMEX3.html,t2,DATE,2021-08-31,false,,,,২০২১ চনৰ ৩১ আগষ্টত
+datasets\documents_15_TIMEX3.html,t3,DATE,2015,false,,,,২০১৫
+datasets\documents_15_TIMEX3.html,t4,DATE,2016,false,,,,২০১৬
+datasets\documents_15_TIMEX3.html,t5,DATE,2022,false,,,,২০২২ চনত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,true,t0,,,আজি
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-08,true,t0,,,যোৱা মাহত
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2027,true,t0,,,আগামী বৰ্ষত
+datasets\documents_gemini_TIMEX3.html,t5,DATE,2026-09-03,true,t0,,,কালি
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,true,t0,,,আজি
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2021,false,,,,২০২১ চনৰ
+datasets\documents_gemini_TIMEX3.html,t4,DURATION,P1D,false,,,,এদিনতে
+datasets\documents_gemini_TIMEX3.html,t5,DURATION,P3Y,false,,,,যোৱা তিনি বছৰ
+datasets\documents_gemini_TIMEX3.html,t6,DATE,2026-08-31,true,t0,,,যোৱা সোমবাৰে
+datasets\documents_gemini_TIMEX3.html,t1,TIME,2026-09-03TNI,true,t0,,,কালি নিশা
+datasets\documents_gemini_TIMEX3.html,t2,TIME,2026-09-03T23:00,true,t0,APPROX,,৩ ছেপ্টেম্বৰৰ নিশা প্ৰায় ১১ বজাত
+datasets\documents_gemini_TIMEX3.html,t3,TIME,2026-09-04TMO,true,t0,,,আজি প্ৰত্যুষত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-03,false,,,,৩ ছেপ্টেম্বৰ ২০২৬
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08,true,t0,,,যোৱা মাহৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2027,false,,,,অহা ২০২৭ চনৰ
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-09-02,true,t0,,,কালি
+datasets\documents_gemini_TIMEX3.html,t1,DATE,PRESENT_REF,true,t0,,,আজিকালি
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-03,true,t0,,,৩ ছেপ্টেম্বৰত
+datasets\documents_gemini_TIMEX3.html,t3,DURATION,P5Y,false,,,,যোৱা ৫ বছৰত
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-W37,true,t0,,,আগামী সপ্তাহত
+datasets\documents_gemini_TIMEX3.html,t1,TIME,2026-09-02TNI,true,t0,,,২ ছেপ্টেম্বৰ ২০২৬ৰ নিশা
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08-31,true,t0,,,যোৱা সোমবাৰৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-09-03,true,t0,,,অহা কালি
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-02,true,t0,,,২ ছেপ্টেম্বৰত
+datasets\documents_gemini_TIMEX3.html,t2,DURATION,PXD,false,,APPROX,,যোৱা কিছু দিন
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-02,false,,,,২ ছেপ্টেম্বৰ ২০২৬
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08-30,true,t0,,,যোৱা দেওবাৰৰ
+datasets\documents_gemini_TIMEX3.html,t3,TIME,2026-09-02TMO,true,t0,,,আজি পুৱাৰ
+datasets\documents_gemini_TIMEX3.html,t1,TIME,2026-09-01TMO,true,t0,,,১ ছেপ্টেম্বৰ ২০২৬ৰ প্ৰত্যুষত
+datasets\documents_gemini_TIMEX3.html,t2,TIME,2026-08-31TNI,true,t0,,,যোৱা সোমবাৰ নিশাৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,PRESENT_REF,true,t0,,,বৰ্তমান
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-03,false,,ON_OR_BEFORE,,৩ ছেপ্টেম্বৰ ২০২৬ লৈকে
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-02,true,t0,,,কালি
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026,true,t0,,,চলিত বৰ্ষত
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-09-04,true,t0,,,কাইলৈ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2017,false,,,,২০১৭ চনৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-10,true,t0,,,অহা মাহত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-03,true,t0,,,যোৱা ৩ ছেপ্টেম্বৰত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-09-07,true,t0,,,অহা সোমবাৰে
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,true,t0,,,৪ ছেপ্টেম্বৰত
+datasets\documents_gemini_TIMEX3.html,t2,DURATION,P2Y,false,,,,বিগত ২ বছৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-09-10,true,t0,ON_OR_BEFORE,,অহা ১০ ছেপ্টেম্বৰৰ
+datasets\documents_gemini_TIMEX3.html,t1,TIME,2026-09-04TAF,true,t0,,,৪ ছেপ্টেম্বৰ ২০২৬ৰ বিয়লি
+datasets\documents_gemini_TIMEX3.html,t2,TIME,2026-09-03TAF,true,t0,,,কালি আবেলি
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-01,false,,,,১ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-07-20,true,t0,,,যোৱা ২০ জুলাইৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-07-25,true,t0,ON_OR_BEFORE,,২৫ জুলাইৰ
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-07-25,true,t0,,,২৫ জুলাইত
+datasets\documents_gemini_TIMEX3.html,t1,TIME,2026-08-31TNI,true,t0,,,৩১ আগষ্ট ২০২৬ৰ নিশা
+datasets\documents_gemini_TIMEX3.html,t2,TIME,2026-08-31T00:00,true,t0,APPROX,,বিগত দেওবাৰে নিশা প্ৰায় ১২ বজাত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-28,false,,,,২৮ আগষ্ট ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08-25,true,t0,,,যোৱা ২৫ আগষ্টৰ
+datasets\documents_gemini_TIMEX3.html,t3,DURATION,P2D,false,,,,অহা ২ দিনৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-20,false,,,,২০ আগষ্ট ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08-15,true,t0,,,যোৱা ১৫ আগষ্টৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-08,true,t0,,,চলিত মাহত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-12,false,,,,১২ আগষ্ট ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026,true,t0,,,চলিত বৰ্ষৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-06,true,t0,,,জুন
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-07,true,t0,,,জুলাই মাহত
+datasets\documents_gemini_TIMEX3.html,t5,DATE,2026-09,true,t0,,,অহা ছেপ্টেম্বৰ মাহত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-01,false,,,,১ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08,true,t0,,,যোৱা আগষ্ট মাহত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-W37,true,t0,,,অহা সপ্তাহত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,TIME,2026-09-04TMO,true,t0,,,আজি পুৱা
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2025-12,true,t0,,,যোৱা বৰ্ষৰ ডিচেম্বৰ মাহত
+datasets\documents_gemini_TIMEX3.html,t4,DURATION,P3Y,false,,,,অহা তিনি বছৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬ৰ
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-10,true,t0,ON_OR_BEFORE,,অহা ১০ ছেপ্টেম্বৰলৈকে
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-08,true,t0,,,যোৱা মাহত
+datasets\documents_gemini_TIMEX3.html,t1,DURATION,P9D,false,,,,৯ দিনৰ
+datasets\documents_gemini_TIMEX3.html,t2,DURATION,P9D,false,,,,৯ দিনৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,PRESENT_REF,true,t0,,,আজিকালি
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-09-04,true,t0,,,৪ ছেপ্টেম্বৰত
+datasets\documents_gemini_TIMEX3.html,t5,DATE,2026-08-26,true,t0,,,যোৱা ২৬ আগষ্টত
+datasets\documents_gemini_TIMEX3.html,t6,DURATION,PT24H,false,,,,যোৱা ২৪ ঘণ্টা
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-Q2,true,t0,,,প্ৰথম ত্ৰৈমাসিকত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-01,false,,,,১ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-Q2,true,t0,,,প্ৰথম ত্ৰৈমাসিকত
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2025-Q2,true,t0,,,যোৱা বৰ্ষৰ একেটা সময়ছোৱাত
+datasets\documents_gemini_TIMEX3.html,t5,DATE,2026-Q3,true,t0,,,অহা দ্বিতীয় ত্ৰৈমাসিকতো
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-03,false,,,,৩ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-02,true,t0,,,যোৱা বুধবাৰে
+datasets\documents_gemini_TIMEX3.html,t3,DURATION,P3D,false,,,,তিনিদিনীয়া
+datasets\documents_gemini_TIMEX3.html,t1,DURATION,P271D,false,,,,২৭১ দিন
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t3,DURATION,P271D,false,,,,২৭১ দিন
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2025-12,true,t0,,,যোৱা বৰ্ষৰ ডিচেম্বৰ মাহত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-02,false,,,,২ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08-31,true,t0,,,যোৱা সোমবাৰে
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-14,false,,,,১৪ আগষ্ট ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,1947,false,,,,১৯৪৭ চনৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2027,true,t0,,,অহা বছৰৰ
+datasets\documents_gemini_TIMEX3.html,t1,TIME,2026-09-03TNI,true,t0,,,৩ ছেপ্টেম্বৰ ২০২৬ৰ নিশা
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-W35,true,t0,,,যোৱা সপ্তাহতো
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-09-04,true,t0,ON_OR_BEFORE,,অহা কালিৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-03,false,,,,৩ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2024-10,false,,,,২০২৪ চনৰ অক্টোবৰ মাহতে
+datasets\documents_gemini_TIMEX3.html,t3,DURATION,P2Y,false,,,,বিগত ২ বছৰত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-03,false,,,,৩ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2023,false,,,,২০২৩ চনৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-12,true,t0,ON_OR_BEFORE,,অহা ডিচেম্বৰ মাহৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2025,true,t0,,,গত বৰ্ষৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-10-01,true,t0,,,অহা ১ অক্টোবৰৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-15,false,,,,১৫ আগষ্ট ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2024,false,,,,যোৱা ২০২৪ চনৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2027,true,t0,,,অহা বৰ্ষত
+datasets\documents_gemini_TIMEX3.html,t1,TIME,2026-09-01TNI,true,t0,,,১ ছেপ্টেম্বৰ ২০২৬ৰ নিশা
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-02,true,t0,,,২ ছেপ্টেম্বৰত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-08,true,t0,,,যোৱা মাহতো
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-03,false,,,,৩ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,1960,false,,,,১৯৬০ চনৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-05,true,t0,,,যোৱা মে' মাহত
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-10,true,t0,,,অহা মাহত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DURATION,P1Y,false,,,,বছৰজোৰা
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2025-09-08,true,t0,,,গত বৰ্ষৰ ৮ ছেপ্টেম্বৰৰ
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-09-04,true,t0,,,আজিৰ
+datasets\documents_gemini_TIMEX3.html,t5,DURATION,P1W,false,,,,অহা এসপ্তাহ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-13,false,,,,১৩ আগষ্ট ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DURATION,PT48H,false,,,,৪৮ ঘণ্টাৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-08-10,true,t0,,,যোৱা ১০ আগষ্টত
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-08-15,true,t0,ON_OR_BEFORE,,অহা ১৫ আগষ্টৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-17,false,,,,১৭ আগষ্ট ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08-15,true,t0,,,যোৱা ১৫ আগষ্টত
+datasets\documents_gemini_TIMEX3.html,t3,DURATION,P1W,false,,,,যোৱা এসপ্তাহ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-02,false,,,,২ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DURATION,P6M,false,,,,প্ৰথম ছমাহত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2023,false,,,,যোৱা ২০২৩ চনৰ
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-12,true,t0,,,অহা ডিচেম্বৰত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-01,false,,,,১ ছেপ্টেম্বৰ ২০২৬ৰ
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-01,true,t0,,,যোৱা জানুৱাৰী মাহত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2027,true,t0,,,অহা বৰ্ষৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-30,false,,,,৩০ আগষ্ট ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2020,false,,,,যোৱা ২০২০ চনত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2028,false,,ON_OR_BEFORE,,অহা ২০২৮ চনৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-03,false,,,,৩ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2021,false,,,,যোৱা ২০২১ চনৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2023-03,false,,,,অহা ২০২৩ চনৰ মাৰ্চ মাহত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬ৰ
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-09-01,true,t0,,,যোৱা ১ ছেপ্টেম্বৰৰ
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-09-07,true,t0,,,অহা সোমবাৰৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-25,false,,,,২৫ আগষ্ট ২০২৬ৰ
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-11-15,true,t0,,,অহা ১৫ নৱেম্বৰত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2025,true,t0,,,যোৱা বছৰৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-02,false,,,,২ ছেপ্টেম্বৰ ২০২৬ৰ
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08,true,t0,,,যোৱা মাহত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-W37,true,t0,,,অহা সপ্তাহৰ
+datasets\documents_gemini_TIMEX3.html,t1,TIME,2026-08-29TNI,true,t0,,,২৯ আগষ্ট ২০২৬ৰ নিশা
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-07,true,t0,,,যোৱা মাহতো
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-08-30,true,t0,,,অহা কালি
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-01,false,,,,১ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,SET,P1Y,false,,,,বার্ষিক
+datasets\documents_gemini_TIMEX3.html,t3,DURATION,P5Y,false,,,,যোৱা ৫ বছৰ
+datasets\documents_gemini_TIMEX3.html,t4,DATE,2026-08-31,true,t0,,,কালি
+datasets\documents_gemini_TIMEX3.html,t5,DATE,2027,false,,ON_OR_BEFORE,,অহা ২০২৭ চনলৈকে
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-08-22,false,,,,২২ আগষ্ট ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2025,true,t0,,,যোৱা বৰ্ষত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-09,true,t0,,,অহা মাহত
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-03,false,,,,৩ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2026-08-31,true,t0,,,যোৱা সোমবাৰে
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2026-09-10,true,t0,,,অহা ১০ ছেপ্টেম্বৰৰ
+datasets\documents_gemini_TIMEX3.html,t1,DATE,2026-09-04,false,,,,৪ ছেপ্টেম্বৰ ২০২৬ত
+datasets\documents_gemini_TIMEX3.html,t2,DATE,2022,false,,,,যোৱা ২০২২ চনত
+datasets\documents_gemini_TIMEX3.html,t3,DATE,2027-12,false,,ON_OR_BEFORE,,অহা ২০২৭ চনৰ ডিচেম্বৰৰ
