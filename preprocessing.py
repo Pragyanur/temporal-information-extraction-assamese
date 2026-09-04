@@ -21,10 +21,10 @@ def initialize_charmap(texts):
     for ch in ch_list:
         # 1. Handle single quotes / apostrophes (pad with space for clean tokenization)
         if ch in "’'`ʼ‘":
-            char_map[ch] = " ' "
+            char_map[ch] = "'"
         # 2. Handle double quotes
         elif ch in "“”":
-            char_map[ch] = ' " '
+            char_map[ch] = '"'
         # 3. Handle defined symbols & whitespace
         elif ch == "\t":
             char_map[ch] = " "
@@ -42,8 +42,9 @@ def initialize_charmap(texts):
 def normalizer(text, cmap):
     """Return normalized and tokenized Assamese string."""
     temp = ""
-    for ch in text:
-        temp += cmap.get(ch, ch)
+
+    for i in text:
+        temp += cmap[i]
 
     # Assamese-Bengali orthographic normalization
     temp = re.sub(r"ব়", "ৰ", temp)
@@ -70,14 +71,22 @@ def normalizer(text, cmap):
 
     return temp
 
-FILE_PATH = "resources/documents_gemini" 
+FILE_PATH = "datasets/documents_gemini_TIMEX3" 
+# FILE_PATH = "resources/expressions.txt"       # expressions only
 
 with open(f"{FILE_PATH}.html", "r", encoding="utf-8") as f:
     text = f.read()
 
+# expressions file
+# with open(f"{FILE_PATH}", "r", encoding="utf-8") as f:
+#     texts = f.read().split("\n")
+
 # Extract content inside <text></text> tags
 text_list = re.findall(r"<text>(.*?)</text>", text, re.DOTALL)
 text_list = [t.strip() for t in text_list]
+
+# remove extra in the expressions
+# text_list = [t.strip() for t in texts]
 
 # Normalize
 cmap = initialize_charmap(text_list)
@@ -88,6 +97,11 @@ with open(f"{FILE_PATH}_preprocessed.html", "w", encoding='utf-8') as f:
     for t in preprocessed_texts:
         f.write(t + "\n\n")
 
-with open(f"{FILE_PATH}_preprocessed_2.html", "w", encoding='utf-8') as f:
-    for t in text_list:
-        f.write(t + "\n\n")
+# # Save expressions output
+# with open("resources/expressions_preprocessed.txt", "w", encoding='utf-8') as f:
+#     for t in preprocessed_texts:
+#         f.write(t + "\n")
+
+# with open(f"{FILE_PATH}_preprocessed_2.html", "w", encoding='utf-8') as f:
+#     for t in text_list:
+#         f.write(t + "\n\n")
