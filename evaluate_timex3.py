@@ -39,8 +39,8 @@ def predicted_fields(tx) -> dict:
     return {name: row[name] for name in FIELDS}
 
 
-def evaluate_attributes(documents, verbose=False) -> Counter:
-    """Gold spans in, attributes out."""
+def score_attributes(documents) -> tuple:
+    """Gold spans in, attributes out. Returns (counts, mismatches)."""
     counts, mismatches = Counter(), Counter()
 
     for doc in documents:
@@ -69,6 +69,12 @@ def evaluate_attributes(documents, verbose=False) -> Counter:
             elif tx.anchor_date is not None:
                 focus = tx.anchor_date
 
+    return counts, mismatches
+
+
+def evaluate_attributes(documents, verbose=False) -> Counter:
+    counts, mismatches = score_attributes(documents)
+
     total = counts["total"]
     print(f"ATTRIBUTES (scored on gold spans): {total} annotations")
     for name in FIELDS:
@@ -84,8 +90,16 @@ def evaluate_attributes(documents, verbose=False) -> Counter:
     return counts
 
 
-def evaluate_end_to_end(documents, show_spans=False) -> Counter:
-    """Raw text in, annotations out: extraction and normalization together."""
+def prf(hits: int, predicted: int, gold: int) -> tuple:
+    """Precision, recall and F1 for `hits` correct out of `predicted`/`gold`."""
+    if not hits:
+        return 0.0, 0.0, 0.0
+    precision, recall = hits / predicted, hits / gold
+    return precision, recall, 2 * precision * recall / (precision + recall)
+
+
+def score_end_to_end(documents) -> tuple:
+    """Raw text in, annotations out. Returns (counts, span_errors)."""
     counts, span_errors = Counter(), Counter()
 
     for doc in documents:
@@ -104,16 +118,18 @@ def evaluate_end_to_end(documents, show_spans=False) -> Counter:
         for span in set(pred) - set(gold):
             span_errors[("spurious", pred[span].expression)] += 1
 
-    def prf(hits):
-        precision = hits / counts["pred"]
-        recall = hits / counts["gold"]
-        f1 = 2 * precision * recall / (precision + recall) if hits else 0.0
-        return precision, recall, f1
+    return counts, span_errors
+
+
+def evaluate_end_to_end(documents, show_spans=False) -> Counter:
+    counts, span_errors = score_end_to_end(documents)
+    span = prf(counts["span_hits"], counts["pred"], counts["gold"])
+    strict = prf(counts["full_hits"], counts["pred"], counts["gold"])
 
     print(f"\nEND-TO-END (raw text in): "
           f"{counts['gold']} gold spans, {counts['pred']} predicted")
-    print("  exact span            P {:6.1%}  R {:6.1%}  F1 {:6.1%}".format(*prf(counts["span_hits"])))
-    print("  span + all attributes P {:6.1%}  R {:6.1%}  F1 {:6.1%}".format(*prf(counts["full_hits"])))
+    print("  exact span            P {:6.1%}  R {:6.1%}  F1 {:6.1%}".format(*span))
+    print("  span + all attributes P {:6.1%}  R {:6.1%}  F1 {:6.1%}".format(*strict))
 
     if show_spans and span_errors:
         print("\n  span errors:")
