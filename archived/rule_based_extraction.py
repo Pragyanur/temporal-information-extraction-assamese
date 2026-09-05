@@ -55,7 +55,7 @@ SUFFIXES = r"ৰ|ত|লৈ|লৈকে|$|\s"
 
 DAY = rf"{NUMBER}\s*(?:তাৰিখ)?"
 DAY_MARK = r"(?:তাৰিখ)"
-MONTH = rf"(?:জানুৱাৰী|ফেব্ৰুৱাৰী|মাৰ্চ|এপ্ৰিল|মে|জুন|জুলাই|আগষ্ট|ছেপ্টেম্বৰ|অক্টোবৰ|নৱেম্বৰ|ডিচেম্বৰ)(?={SUFFIXES}|[।,!?;:])"
+MONTH = rf"(?:জানুৱাৰী|ফেব্ৰুৱাৰী|মাৰ্চ|এপ্ৰিল|মে'|জুন|জুলাই|আগষ্ট|ছেপ্টেম্বৰ|অক্টোবৰ|নৱেম্বৰ|ডিচেম্বৰ)(?={SUFFIXES}|[।,!?;:])"
 YEAR = rf"{NUMBER}\s*(?:চনৰ|চন|চনত)?"
 YEAR_MARK = r"(?:চন)"
 WEEKDAY = r"(?:দেওবাৰ|সোমবাৰ|মঙলবাৰ|বুধবাৰ|বৃহস্পতিবাৰ|শুক্ৰবাৰ|শনিবাৰ)"
@@ -89,10 +89,20 @@ DATE = re.compile(
     re.VERBOSE
 )
 
-for match in TIME.finditer(text):
-    print(match.group(), " <- TIME")
-    print(match.span())
+with open("resources/expressions_preprocessed.txt", "r", encoding='utf-8') as f:
+    exps = f.read().split("\n")
 
-for match in DATE.finditer(text):
-    print(match.group(), " <- DATE")
-    print(match.span())
+ops = []
+
+for text in exps:
+    op = f"original expression: {text}"
+    for match in TIME.finditer(text):
+        op += f"\nTIME: {match.group()} in position {match.span()}"
+
+    for match in DATE.finditer(text):
+        op += f"\nDATE: {match.group()} in position {match.span()}"
+    ops.append(op)
+
+with open("demo.txt", "w", encoding='utf-8') as f:
+    for i in ops:
+        f.write(f"{i}\n\n")

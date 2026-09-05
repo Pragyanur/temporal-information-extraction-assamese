@@ -1,0 +1,1095 @@
+original expression: ১৬ আগষ্ট
+DATE: ১৬ আগষ্ট in position (0, 8)
+
+original expression: বিগত ৭ দিনে
+
+original expression: যোৱা দেওবাৰ নিশা
+TIME: নিশা in position (12, 16)
+DATE: দেওবাৰ in position (5, 11)
+
+original expression: ২৩ আগষ্ট
+DATE: ২৩ আগষ্ট in position (0, 8)
+
+original expression: গতবছৰৰ
+
+original expression: আজি পুৱাৰ ভাগত
+TIME: পুৱা in position (4, 8)
+
+original expression: ১৫ জুন
+DATE: ১৫ জুন in position (0, 6)
+
+original expression: বিয়লি প্ৰায় ৬ বজাত
+TIME: ৬ বজা in position (14, 19)
+
+original expression: যোৱা এমাহৰ
+
+original expression: আজিৰ
+
+original expression: ৪ আগষ্ট তাৰিখে নিশা
+TIME: নিশা in position (15, 19)
+DATE: ৪ আগষ্ট in position (0, 7)
+
+original expression: আজি
+
+original expression: বিগত তিনি সপ্তাহ
+
+original expression: ৬ আগষ্ট
+DATE: ৬ আগষ্ট in position (0, 7)
+
+original expression: ২১ মে'
+DATE: ২১ মে' in position (0, 6)
+
+original expression: বাৰ্ষিক
+
+original expression: পুৱা ৯ বজাৰ
+TIME: পুৱা ৯ বজা in position (0, 10)
+
+original expression: বিয়লি ৪ বজালৈ
+TIME: ৪ বজা in position (7, 12)
+
+original expression: আহি থকা ৫ জুন
+DATE: ৫ জুন in position (8, 13)
+
+original expression: যোৱা বছৰৰ
+
+original expression: ৩ আগষ্ট
+DATE: ৩ আগষ্ট in position (0, 7)
+
+original expression: পুৱা ১০ বজাৰ
+TIME: পুৱা ১০ বজা in position (0, 11)
+
+original expression: আহি থকা তিনি মাহত
+
+original expression: যোৱা দেওবাৰ নিশাৰে
+TIME: নিশা in position (12, 16)
+DATE: দেওবাৰ in position (5, 11)
+
+original expression: ২৭ আগষ্ট
+DATE: ২৭ আগষ্ট in position (0, 8)
+
+original expression: বিগত সপ্তাহত
+
+original expression: আহিলে দুদিন
+
+original expression: নিশা ৮ বজাৰ
+TIME: নিশা ৮ বজা in position (0, 10)
+
+original expression: প্ৰায় ৩ ঘণ্টা
+
+original expression: গতবছৰতকৈ
+
+original expression: আহি থকা ১৭ ছেপ্টেম্বৰ
+DATE: ১৭ ছেপ্টেম্বৰ in position (8, 21)
+
+original expression: ৩ জুন
+DATE: ৩ জুন in position (0, 5)
+
+original expression: ৯ আগষ্ট
+DATE: ৯ আগষ্ট in position (0, 7)
+
+original expression: বিগত কেইমাহমানত
+
+original expression: ২০ আগষ্ট তাৰিখে সন্ধিয়া
+TIME: সন্ধিয়া in position (16, 24)
+DATE: ২০ আগষ্ট in position (0, 8)
+
+original expression: প্ৰায় ৫ ঘণ্টা
+
+original expression: গভীৰ ৰাতিলৈকে
+TIME: ৰাতি in position (5, 9)
+
+original expression: বিগত এসপ্তাহত
+
+original expression: আহিলে বৰষুণৰ দিনবোৰত
+
+original expression: ২৮ জুন
+DATE: ২৮ জুন in position (0, 6)
+
+original expression: যোৱা বছৰতকৈ
+
+original expression: আজি পুৱা
+TIME: পুৱা in position (4, 8)
+
+original expression: আহি থকা সপ্তাহত
+
+original expression: ২৩ জুন তাৰিখে নিশা
+TIME: নিশা in position (14, 18)
+DATE: ২৩ জুন in position (0, 6)
+
+original expression: বিয়লি ৪ বজাত
+TIME: ৪ বজা in position (7, 12)
+
+original expression: নিশা প্ৰায় ৭ বজাত
+TIME: নিশা in position (0, 4)
+TIME: ৭ বজা in position (12, 17)
+
+original expression: বিগত তিনি বছৰত
+
+original expression: আহিলে বছৰৰ
+
+original expression: এমাহ
+
+original expression: আজি নিশালৈকে
+TIME: নিশা in position (4, 8)
+
+original expression: বিগত দুদিনে
+
+original expression: আহিলে সপ্তাহৰ
+
+original expression: পুৱা ১১ বজাৰ
+TIME: পুৱা ১১ বজা in position (0, 11)
+
+original expression: প্ৰায় দুঘণ্টা
+
+original expression: যোৱা এমাহ
+
+original expression: আহিলে ১০ দিনৰ
+
+original expression: ১ জুন
+DATE: ১ জুন in position (0, 5)
+
+original expression: যোৱা সোমবাৰৰ
+DATE: সোমবাৰ in position (5, 11)
+
+original expression: বৰ্তমানলৈকে
+
+original expression: আহি থকা কেইদিনমানৰ
+
+original expression: যোৱা কেইদিনমানত
+
+original expression: আহিলে সপ্তাহলৈ
+
+original expression: ২৩ মে'
+DATE: ২৩ মে' in position (0, 6)
+
+original expression: পুৱা ১০ বজাত
+TIME: পুৱা ১০ বজা in position (0, 11)
+
+original expression: প্ৰায় এঘণ্টা
+
+original expression: আহি থকা ৪ মাহৰ
+
+original expression: যোৱা বছৰ
+
+original expression: ৩০ আগষ্ট তাৰিখে নিশা
+TIME: নিশা in position (16, 20)
+DATE: ৩০ আগষ্ট in position (0, 8)
+
+original expression: প্ৰায় নিশা ১১ বজাত
+TIME: নিশা ১১ বজা in position (7, 18)
+
+original expression: এতিয়াও
+
+original expression: আহি থকা দুদিনৰ
+
+original expression: বিগত এবছৰত
+
+original expression: বিগত ১৭ দিন
+
+original expression: যোৱা মাহৰে
+
+original expression: আহিলে সাতদিনৰ
+
+original expression: প্ৰতিদিনে
+
+original expression: ৩০ জুন
+DATE: ৩০ জুন in position (0, 6)
+
+original expression: আহি থকা ৰবি শস্যৰ বতৰত
+
+original expression: ২২ জুলাই
+DATE: ২২ জুলাই in position (0, 8)
+
+original expression: বিগত ৪ দিনে
+
+original expression: যোৱা বুধবাৰ নিশা
+TIME: নিশা in position (12, 16)
+DATE: বুধবাৰ in position (5, 11)
+
+original expression: ১১ জুলাই
+DATE: ১১ জুলাই in position (0, 8)
+
+original expression: ২২ আগষ্ট তাৰিখে নিশা
+TIME: নিশা in position (16, 20)
+DATE: ২২ আগষ্ট in position (0, 8)
+
+original expression: ২৪ আগষ্ট
+DATE: ২৪ আগষ্ট in position (0, 8)
+
+original expression: ৭ জুলাই
+DATE: ৭ জুলাই in position (0, 7)
+
+original expression: আহি থকা ১৯ জুলাই
+DATE: ১৯ জুলাই in position (8, 16)
+
+original expression: ১৮ আগষ্ট
+DATE: ১৮ আগষ্ট in position (0, 8)
+
+original expression: যোৱা সোমবাৰ নিশাৰে
+TIME: নিশা in position (12, 16)
+DATE: সোমবাৰ in position (5, 11)
+
+original expression: ২৯ জুলাই
+DATE: ২৯ জুলাই in position (0, 8)
+
+original expression: ৭ জুন
+DATE: ৭ জুন in position (0, 5)
+
+original expression: প্ৰায় ৪ ঘণ্টা
+
+original expression: আহি থকা ১৭ জুলাই
+DATE: ১৭ জুলাই in position (8, 16)
+
+original expression: ১৭ এপ্ৰিল
+DATE: ১৭ এপ্ৰিল in position (0, 9)
+
+original expression: ১৮ জুন
+DATE: ১৮ জুন in position (0, 6)
+
+original expression: ১৭ আগষ্ট তাৰিখে সন্ধিয়া
+TIME: সন্ধিয়া in position (16, 24)
+DATE: ১৭ আগষ্ট in position (0, 8)
+
+original expression: ২৪ মে'
+DATE: ২৪ মে' in position (0, 6)
+
+original expression: ১৬ জুলাই তাৰিখে নিশা
+TIME: নিশা in position (16, 20)
+DATE: ১৬ জুলাই in position (0, 8)
+
+original expression: ২৭ মে'
+DATE: ২৭ মে' in position (0, 6)
+
+original expression: আহিলে ৪ দিনৰ
+
+original expression: যোৱা মঙ্গলবাৰৰ
+
+original expression: ২১ জুলাই
+DATE: ২১ জুলাই in position (0, 8)
+
+original expression: ২৬ জুন তাৰিখে নিশা
+TIME: নিশা in position (14, 18)
+DATE: ২৬ জুন in position (0, 6)
+
+original expression: বিগত ২০ দিন
+
+original expression: ১০ আগষ্ট
+DATE: ১০ আগষ্ট in position (0, 8)
+
+original expression: ৯ জুন
+DATE: ৯ জুন in position (0, 5)
+
+original expression: যোৱা মঙ্গলবাৰ নিশা
+TIME: নিশা in position (14, 18)
+
+original expression: ১৭ জুন
+DATE: ১৭ জুন in position (0, 6)
+
+original expression: ১৭ জুলাই
+DATE: ১৭ জুলাই in position (0, 8)
+
+original expression: ১১ আগষ্ট তাৰিখে নিশা
+TIME: নিশা in position (16, 20)
+DATE: ১১ আগষ্ট in position (0, 8)
+
+original expression: ১৪ আগষ্ট
+DATE: ১৪ আগষ্ট in position (0, 8)
+
+original expression: ১২ আগষ্ট
+DATE: ১২ আগষ্ট in position (0, 8)
+
+original expression: আহি থকা ২৮ আগষ্ট
+DATE: ২৮ আগষ্ট in position (8, 16)
+
+original expression: ২৫ মে'
+DATE: ২৫ মে' in position (0, 6)
+
+original expression: ২৮ আগষ্ট
+DATE: ২৮ আগষ্ট in position (0, 8)
+
+original expression: আহি থকা ৩ জুলাই
+DATE: ৩ জুলাই in position (8, 15)
+
+original expression: ২১ এপ্ৰিল
+DATE: ২১ এপ্ৰিল in position (0, 9)
+
+original expression: ২২ জুন
+DATE: ২২ জুন in position (0, 6)
+
+original expression: ২৪ জুন তাৰিখে সন্ধিয়া
+TIME: সন্ধিয়া in position (14, 22)
+DATE: ২৪ জুন in position (0, 6)
+
+original expression: ১০ জুন
+DATE: ১০ জুন in position (0, 6)
+
+original expression: ১০ জুলাই তাৰিখে নিশা
+TIME: নিশা in position (16, 20)
+DATE: ১০ জুলাই in position (0, 8)
+
+original expression: প্ৰায় ২ ঘণ্টা
+
+original expression: যোৱা ২ মাহ
+
+original expression: আহি থকা সপ্তাহৰ
+
+original expression: আজি পুৱাই
+TIME: পুৱা in position (4, 8)
+
+original expression: ১৩ জুলাই
+DATE: ১৩ জুলাই in position (0, 8)
+
+original expression: বছৰজোৰা
+
+original expression: এবছৰ
+
+original expression: সন্ধিয়া ৬ বজাৰ
+TIME: সন্ধিয়া ৬ বজা in position (0, 14)
+
+original expression: নিশা প্ৰায় ৯ বজালৈ
+TIME: নিশা in position (0, 4)
+TIME: ৯ বজা in position (12, 17)
+
+original expression: আহি থকা বছৰতো
+
+original expression: ২৬ জুলাই তাৰিখে নিশা
+TIME: নিশা in position (16, 20)
+DATE: ২৬ জুলাই in position (0, 8)
+
+original expression: বিগত কেইসপ্তাহমান
+
+original expression: ২৬ মে' তাৰিখে মঙ্গলবাৰৰে
+DATE: ২৬ মে' in position (0, 6)
+
+original expression: আজিলৈকে
+
+original expression: ২৫ জুলাই তাৰিখে সন্ধিয়া
+TIME: সন্ধিয়া in position (16, 24)
+DATE: ২৫ জুলাই in position (0, 8)
+
+original expression: আহিলে বৰষুণৰ বতৰত
+
+original expression: ৭ দিনৰ
+
+original expression: যোৱা এবছৰৰ
+
+original expression: ১ আগষ্ট
+DATE: ১ আগষ্ট in position (0, 7)
+
+original expression: বিগত এমাহ
+
+original expression: ৪ জুন
+DATE: ৪ জুন in position (0, 5)
+
+original expression: পুৱা ১১ বজাত
+TIME: পুৱা ১১ বজা in position (0, 11)
+
+original expression: আহি থকা বছৰত
+
+original expression: বিগত ৫ বছৰ
+
+original expression: ২০২৩ চনৰ
+DATE: ২০২৩ চন in position (0, 7)
+
+original expression: আহি থকা এমাহৰ
+
+original expression: যোৱা এসপ্তাহতে
+
+original expression: প্ৰতি শনিবাৰে
+DATE: শনিবাৰ in position (6, 12)
+
+original expression: আহি থকা মাহবোৰত
+
+original expression: ২১ আগষ্ট তাৰিখে নিশা
+TIME: নিশা in position (16, 20)
+DATE: ২১ আগষ্ট in position (0, 8)
+
+original expression: বিয়লি ৩ বজাত
+TIME: ৩ বজা in position (7, 12)
+
+original expression: নিশা প্ৰায় ৯ বজাত
+TIME: নিশা in position (0, 4)
+TIME: ৯ বজা in position (12, 17)
+
+original expression: যোৱা মাহৰ
+
+original expression: প্ৰায় এমাহ
+
+original expression: আহিলে বছৰত
+
+original expression: আহি থকা ২৭ আগষ্ট
+DATE: ২৭ আগষ্ট in position (8, 16)
+
+original expression: নিশা ১২ বজাত
+TIME: নিশা ১২ বজা in position (0, 11)
+
+original expression: সন্ধিয়াৰ
+TIME: সন্ধিয়া in position (0, 8)
+
+original expression: বিগত সপ্তাহৰ
+
+original expression: আহি থকা বৰষুণৰ বতৰৰ
+
+original expression: বিগত পাঁচ বছৰত
+
+original expression: আহিলে মাহৰ
+
+original expression: প্ৰায় ৪ মাহেই
+
+original expression: বিগত তিনি বছৰ
+
+original expression: যোৱা বৰষুণৰ বতৰতো
+
+original expression: আহি থকা শুকান বতৰত
+
+original expression: বিগত ছমাহত
+
+original expression: আহি থকা তিনি মাহৰ
+
+original expression: যোৱা বছৰতো
+
+original expression: আহি থকা ১৭ জুন
+DATE: ১৭ জুন in position (8, 14)
+
+original expression: যোৱা তিনি দশক
+
+original expression: যোৱা মাহতে
+
+original expression: ৮ দিনৰ
+
+original expression: তিনিদিন
+
+original expression: আহি থকা ৭ দিনৰ
+
+original expression: যোৱা নিৰ্বাচনতো
+
+original expression: ১৮ মে'
+DATE: ১৮ মে' in position (0, 6)
+
+original expression: বিগত ১৩ বছৰ
+
+original expression: দীৰ্ঘ ১০ বছৰৰ
+
+original expression: যোৱা এবছৰ
+
+original expression: আহি থকা মাহত
+
+original expression: ৯ জুন তাৰিখে নিশা
+TIME: নিশা in position (13, 17)
+DATE: ৯ জুন in position (0, 5)
+
+original expression: তিনিমাহজুৰি
+
+original expression: নিশা ৮ বজাত
+TIME: নিশা ৮ বজা in position (0, 10)
+
+original expression: যোৱা কেইমাহমান
+
+original expression: ১০৫ বছৰ
+
+original expression: আহি থকা ৬ মাহৰ
+
+original expression: যোৱা বৰষুণৰ বতৰত
+
+original expression: বিগত কেইবছৰমান
+
+original expression: যোৱা নিৰ্বাচনৰ
+
+original expression: প্ৰতি দেওবাৰে
+DATE: দেওবাৰ in position (6, 12)
+
+original expression: যোৱা ৩ মাহ
+
+original expression: ১৫ আগষ্ট
+DATE: ১৫ আগষ্ট in position (0, 8)
+
+original expression: ১৯ জুলাই তাৰিখে নিশা
+TIME: নিশা in position (16, 20)
+DATE: ১৯ জুলাই in position (0, 8)
+
+original expression: ২৪ জুন
+DATE: ২৪ জুন in position (0, 6)
+
+original expression: ২৬ জুন তাৰিখে শুক্ৰবাৰৰে
+DATE: ২৬ জুন in position (0, 6)
+DATE: শুক্ৰবাৰ in position (14, 22)
+
+original expression: ১৮ জুলাই তাৰিখে সন্ধিয়া
+TIME: সন্ধিয়া in position (16, 24)
+DATE: ১৮ জুলাই in position (0, 8)
+
+original expression: ২ জুলাই
+DATE: ২ জুলাই in position (0, 7)
+
+original expression: ২৯ আগষ্ট
+DATE: ২৯ আগষ্ট in position (0, 8)
+
+original expression: ১১ জুন
+DATE: ১১ জুন in position (0, 6)
+
+original expression: বিগত ৩ বছৰ
+
+original expression: ২০২২ চনৰ
+DATE: ২০২২ চন in position (0, 7)
+
+original expression: ১৩ জুন
+DATE: ১৩ জুন in position (0, 6)
+
+original expression: ২৪ মে' তাৰিখে নিশা
+TIME: নিশা in position (14, 18)
+DATE: ২৪ মে' in position (0, 6)
+
+original expression: আহি থকা ১৬ আগষ্ট
+DATE: ১৬ আগষ্ট in position (8, 16)
+
+original expression: ৩ জুলাই
+DATE: ৩ জুলাই in position (0, 7)
+
+original expression: আহি থকা ২৩ জুলাই
+DATE: ২৩ জুলাই in position (8, 16)
+
+original expression: বিগত ৯ বছৰ
+
+original expression: ২২ মে'
+DATE: ২২ মে' in position (0, 6)
+
+original expression: দীৰ্ঘ ১৩ বছৰৰ
+
+original expression: ২৪ জুলাই তাৰিখে নিশা
+TIME: নিশা in position (16, 20)
+DATE: ২৪ জুলাই in position (0, 8)
+
+original expression: ১৩৯ বছৰ
+
+original expression: আহি থকা ৫ মাহৰ
+
+original expression: ২৬ জুন
+DATE: ২৬ জুন in position (0, 6)
+
+original expression: এই সময়ছোৱাত
+
+original expression: আজিৰে
+
+original expression: তিনিদিনৰ
+
+original expression: ২৫ জুনত
+DATE: ২৫ জুন in position (0, 6)
+
+original expression: ২৫ জুনৰ নিশা ১২ বাজি ২ মিনিট ১৩ ছেকেণ্ডত
+TIME: নিশা ১২ বাজি ২ মিনিট ১৩ ছেকেণ্ড in position (8, 39)
+DATE: ২৫ জুন in position (0, 6)
+
+original expression: ২৬ জুনত
+DATE: ২৬ জুন in position (0, 6)
+
+original expression: নিশা ৯ বাজি ৮ মিনিট ৪২ ছেকেণ্ডত
+TIME: নিশা ৯ বাজি ৮ মিনিট ৪২ ছেকেণ্ড in position (0, 30)
+
+original expression: এই তিনিটা দিন
+
+original expression: সন্ধিয়া ৬ বজাৰ
+TIME: ৬ বজা in position (8, 13)
+
+original expression: আজি নিশা ৯ বাজি ৮ মিনিট ৪২ ছেকেণ্ডত
+TIME: নিশা ৯ বাজি ৮ মিনিট ৪২ ছেকেণ্ড in position (4, 34)
+
+original expression: অষ্টম-নৱম শতিকাতে
+
+original expression: ১৭৪৫ খ্ৰীষ্টাব্দত
+
+original expression: বিগত প্ৰায় ২৮০ বছৰ
+
+original expression: ৫ মাহ
+
+original expression: এইপৰ্যন্ত
+
+original expression: এতিয়ালৈকে
+
+original expression: বৰ্তমানেও
+
+original expression: পাঁচ মাহ
+
+original expression: ২০০০ চনৰ
+DATE: ২০০০ চন in position (0, 7)
+
+original expression: ১৯৭৫ চনৰ
+DATE: ১৯৭৫ চন in position (0, 7)
+
+original expression: ১৯৯০
+
+original expression: ২০২০
+
+original expression: মাৰ্চত
+DATE: মাৰ্চ in position (0, 5)
+
+original expression: এতিয়াও
+
+original expression: তিনিটা দশকৰ
+
+original expression: ৭৭ বছৰীয়া
+
+original expression: ৭৭ বছৰীয়া
+
+original expression: ২০২১ চনতে
+DATE: ২০২১ চন in position (0, 7)
+
+original expression: ২০২৬ চনৰ ৫ আগষ্টত
+DATE: ২০২৬ চনৰ ৫ আগষ্ট in position (0, 16)
+
+original expression: বৰ্তমানৰ
+
+original expression: ভৱিষ্যতে
+
+original expression: প্ৰায় ৩২ বছৰ
+
+original expression: ২০১১ চনত
+DATE: ২০১১ চন in position (0, 7)
+
+original expression: ২০২০ চনৰ ৬ ডিচেম্বৰত
+DATE: ২০২০ চনৰ ৬ ডিচেম্বৰ in position (0, 19)
+
+original expression: ৩৩ বছৰ
+
+original expression: ১৯৭৭ চনৰ ৩ জানুৱাৰীত
+DATE: ১৯৭৭ চনৰ ৩ জানুৱাৰী in position (0, 19)
+
+original expression: প্ৰায় ৩৩ বছৰ
+
+original expression: ২০১০ চনত
+DATE: ২০১০ চন in position (0, 7)
+
+original expression: ৭৭ বছৰ
+
+original expression: চলিত বৰ্ষৰ
+
+original expression: ৩০ আগষ্টৰ
+DATE: ৩০ আগষ্ট in position (0, 8)
+
+original expression: ২ ছেপ্টম্বৰলৈ
+
+original expression: ৩৭ বছৰীয়া
+
+original expression: বৰ্তমান
+
+original expression: দুদিনধৰি
+
+original expression: বুধবাৰে দুপৰীয়া
+DATE: বুধবাৰ in position (0, 6)
+
+original expression: ১৭ ছেপ্টেম্বৰলৈকে
+DATE: ১৭ ছেপ্টেম্বৰ in position (0, 13)
+
+original expression: এতিয়াৰে
+
+original expression: সপ্তাহত অন্ততঃ ৩ দিন
+
+original expression: ২০২৬ৰ ৩০ এপ্ৰিলত
+DATE: ৩০ এপ্ৰিল in position (6, 15)
+
+original expression: তিনি বছৰ
+
+original expression: প্ৰায় ৩৮-৩৯ বছৰ
+
+original expression: ২ দিনীয়া
+
+original expression: দেওবাৰে নিশা
+TIME: নিশা in position (8, 12)
+DATE: দেওবাৰ in position (0, 6)
+
+original expression: ২০২৬ৰ
+
+original expression: ৩ ছেপ্তেম্বৰ ২০২৬ত
+
+original expression: দুদিনৰ
+
+original expression: কিছুদিনৰ
+
+original expression: ৩১আগষ্ট , ২০২৬ত
+DATE: আগষ্ট in position (2, 7)
+
+original expression: ২১জুলাই , ২০২৬ত
+DATE: জুলাই in position (2, 7)
+
+original expression: আজিও
+
+original expression: যোৱা কেইটামান বছৰতে
+
+original expression: যোৱা ২০ টা বছৰত
+
+original expression: এতিয়াৰ
+
+original expression: ৬ বছৰ
+
+original expression: কেইবা বছৰো
+
+original expression: ছবছৰত
+
+original expression: ১০ বছৰ
+
+original expression: প্ৰতিমাহে
+
+original expression: ২০০০ চনৰ ১৪ ডিচেম্বৰত
+DATE: ২০০০ চনৰ ১৪ ডিচেম্বৰ in position (0, 20)
+
+original expression: ২০০৪ চনৰ ১৬ অক্টোবৰত
+DATE: ২০০৪ চনৰ ১৬ অক্টোবৰ in position (0, 19)
+
+original expression: ১৭ বছৰ
+
+original expression: ২০০৫ চনৰ ১ মে'ত
+DATE: ২০০৫ চনৰ ১ মে' in position (0, 14)
+
+original expression: ২০২২ চনত
+DATE: ২০২২ চন in position (0, 7)
+
+original expression: ৩০ বছৰ
+
+original expression: ২০২১ চনৰ ৩১ আগষ্টত
+DATE: ২০২১ চনৰ ৩১ আগষ্ট in position (0, 17)
+
+original expression: ২০১৫
+
+original expression: ২০১৬
+
+original expression: ৪ ছেপ্টেম্বৰ ২০২৬
+DATE: ৪ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: যোৱা মাহত
+
+original expression: আগামী বৰ্ষত
+
+original expression: কালি
+
+original expression: ২০২১ চনৰ
+DATE: ২০২১ চন in position (0, 7)
+
+original expression: এদিনতে
+
+original expression: যোৱা তিনি বছৰ
+
+original expression: যোৱা সোমবাৰে
+DATE: সোমবাৰ in position (5, 11)
+
+original expression: কালি নিশা
+TIME: নিশা in position (5, 9)
+
+original expression: ৩ ছেপ্টেম্বৰৰ নিশা প্ৰায় ১১ বজাত
+TIME: নিশা in position (14, 18)
+TIME: ১১ বজা in position (26, 32)
+DATE: ৩ ছেপ্টেম্বৰ in position (0, 12)
+
+original expression: আজি প্ৰত্যুষত
+
+original expression: ৩ ছেপ্টেম্বৰ ২০২৬
+DATE: ৩ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: অহা ২০২৭ চনৰ
+DATE: ২০২৭ চন in position (4, 11)
+
+original expression: আজিকালি
+
+original expression: ৩ ছেপ্টেম্বৰত
+DATE: ৩ ছেপ্টেম্বৰ in position (0, 12)
+
+original expression: যোৱা ৫ বছৰত
+
+original expression: আগামী সপ্তাহত
+
+original expression: ২ ছেপ্টেম্বৰ ২০২৬ৰ নিশা
+TIME: নিশা in position (19, 23)
+DATE: ২ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: অহা কালি
+
+original expression: ২ ছেপ্টেম্বৰত
+DATE: ২ ছেপ্টেম্বৰ in position (0, 12)
+
+original expression: যোৱা কিছু দিন
+
+original expression: ২ ছেপ্টেম্বৰ ২০২৬
+DATE: ২ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: যোৱা দেওবাৰৰ
+DATE: দেওবাৰ in position (5, 11)
+
+original expression: আজি পুৱাৰ
+TIME: পুৱা in position (4, 8)
+
+original expression: ১ ছেপ্টেম্বৰ ২০২৬ৰ প্ৰত্যুষত
+DATE: ১ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: যোৱা সোমবাৰ নিশাৰ
+TIME: নিশা in position (12, 16)
+DATE: সোমবাৰ in position (5, 11)
+
+original expression: ৩ ছেপ্টেম্বৰ ২০২৬ লৈকে
+DATE: ৩ ছেপ্টেম্বৰ ২০২৬  in position (0, 18)
+
+original expression: চলিত বৰ্ষত
+
+original expression: কাইলৈ
+
+original expression: ৪ ছেপ্টেম্বৰ ২০২৬ত
+DATE: ৪ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: ২০১৭ চনৰ
+DATE: ২০১৭ চন in position (0, 7)
+
+original expression: অহা মাহত
+
+original expression: যোৱা ৩ ছেপ্টেম্বৰত
+DATE: ৩ ছেপ্টেম্বৰ in position (5, 17)
+
+original expression: অহা সোমবাৰে
+DATE: সোমবাৰ in position (4, 10)
+
+original expression: ৪ ছেপ্টেম্বৰত
+DATE: ৪ ছেপ্টেম্বৰ in position (0, 12)
+
+original expression: বিগত ২ বছৰ
+
+original expression: অহা ১০ ছেপ্টেম্বৰৰ
+DATE: ১০ ছেপ্টেম্বৰ in position (4, 17)
+
+original expression: ৪ ছেপ্টেম্বৰ ২০২৬ৰ বিয়লি
+DATE: ৪ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: কালি আবেলি
+TIME: আবেলি in position (5, 10)
+
+original expression: ১ ছেপ্টেম্বৰ ২০২৬ত
+DATE: ১ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: যোৱা ২০ জুলাইৰ
+DATE: ২০ জুলাই in position (5, 13)
+
+original expression: ২৫ জুলাইৰ
+DATE: ২৫ জুলাই in position (0, 8)
+
+original expression: ২৫ জুলাইত
+DATE: ২৫ জুলাই in position (0, 8)
+
+original expression: ৩১ আগষ্ট ২০২৬ৰ নিশা
+TIME: নিশা in position (15, 19)
+DATE: ৩১ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: বিগত দেওবাৰে নিশা প্ৰায় ১২ বজাত
+TIME: নিশা in position (13, 17)
+TIME: ১২ বজা in position (25, 31)
+DATE: দেওবাৰ in position (5, 11)
+
+original expression: ২৮ আগষ্ট ২০২৬ত
+DATE: ২৮ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: যোৱা ২৫ আগষ্টৰ
+DATE: ২৫ আগষ্ট in position (5, 13)
+
+original expression: অহা ২ দিনৰ
+
+original expression: ২০ আগষ্ট ২০২৬ত
+DATE: ২০ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: যোৱা ১৫ আগষ্টৰ
+DATE: ১৫ আগষ্ট in position (5, 13)
+
+original expression: চলিত মাহত
+
+original expression: ১২ আগষ্ট ২০২৬ত
+DATE: ১২ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: জুন
+DATE: জুন in position (0, 3)
+
+original expression: জুলাই মাহত
+DATE: জুলাই in position (0, 5)
+
+original expression: অহা ছেপ্টেম্বৰ মাহত
+DATE: ছেপ্টেম্বৰ in position (4, 14)
+
+original expression: যোৱা আগষ্ট মাহত
+DATE: আগষ্ট in position (5, 10)
+
+original expression: অহা সপ্তাহত
+
+original expression: যোৱা বৰ্ষৰ ডিচেম্বৰ মাহত
+DATE: ডিচেম্বৰ in position (11, 19)
+
+original expression: অহা তিনি বছৰ
+
+original expression: ৪ ছেপ্টেম্বৰ ২০২৬ৰ
+DATE: ৪ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: অহা ১০ ছেপ্টেম্বৰলৈকে
+DATE: ১০ ছেপ্টেম্বৰ in position (4, 17)
+
+original expression: ৯ দিনৰ
+
+original expression: যোৱা ২৬ আগষ্টত
+DATE: ২৬ আগষ্ট in position (5, 13)
+
+original expression: যোৱা ২৪ ঘণ্টা
+
+original expression: প্ৰথম ত্ৰৈমাসিকত
+
+original expression: যোৱা বৰ্ষৰ একেটা সময়ছোৱাত
+
+original expression: অহা দ্বিতীয় ত্ৰৈমাসিকতো
+
+original expression: ৩ ছেপ্টেম্বৰ ২০২৬ত
+DATE: ৩ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: যোৱা বুধবাৰে
+DATE: বুধবাৰ in position (5, 11)
+
+original expression: তিনিদিনীয়া
+
+original expression: ২৭১ দিন
+
+original expression: ২ ছেপ্টেম্বৰ ২০২৬ত
+DATE: ২ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: ১৪ আগষ্ট ২০২৬ত
+DATE: ১৪ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: ১৯৪৭ চনৰ
+DATE: ১৯৪৭ চন in position (0, 7)
+
+original expression: অহা বছৰৰ
+
+original expression: ৩ ছেপ্টেম্বৰ ২০২৬ৰ নিশা
+TIME: নিশা in position (19, 23)
+DATE: ৩ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: যোৱা সপ্তাহতো
+
+original expression: অহা কালিৰ
+
+original expression: ২০২৪ চনৰ অক্টোবৰ মাহতে
+DATE: ২০২৪ চনৰ অক্টোবৰ in position (0, 16)
+
+original expression: বিগত ২ বছৰত
+
+original expression: অহা ডিচেম্বৰ মাহৰ
+DATE: ডিচেম্বৰ in position (4, 12)
+
+original expression: গত বৰ্ষৰ
+
+original expression: অহা ১ অক্টোবৰৰ
+DATE: ১ অক্টোবৰ in position (4, 13)
+
+original expression: ১৫ আগষ্ট ২০২৬ত
+DATE: ১৫ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: যোৱা ২০২৪ চনৰ
+DATE: ২০২৪ চন in position (5, 12)
+
+original expression: অহা বৰ্ষত
+
+original expression: ১ ছেপ্টেম্বৰ ২০২৬ৰ নিশা
+TIME: নিশা in position (19, 23)
+DATE: ১ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: যোৱা মাহতো
+
+original expression: ১৯৬০ চনৰ
+DATE: ১৯৬০ চন in position (0, 7)
+
+original expression: যোৱা মে' মাহত
+DATE: মে' in position (5, 8)
+
+original expression: গত বৰ্ষৰ ৮ ছেপ্টেম্বৰৰ
+DATE: ৮ ছেপ্টেম্বৰ in position (9, 21)
+
+original expression: অহা এসপ্তাহ
+
+original expression: ১৩ আগষ্ট ২০২৬ত
+DATE: ১৩ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: ৪৮ ঘণ্টাৰ
+
+original expression: যোৱা ১০ আগষ্টত
+DATE: ১০ আগষ্ট in position (5, 13)
+
+original expression: অহা ১৫ আগষ্টৰ
+DATE: ১৫ আগষ্ট in position (4, 12)
+
+original expression: ১৭ আগষ্ট ২০২৬ত
+DATE: ১৭ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: যোৱা ১৫ আগষ্টত
+DATE: ১৫ আগষ্ট in position (5, 13)
+
+original expression: যোৱা এসপ্তাহ
+
+original expression: প্ৰথম ছমাহত
+
+original expression: যোৱা ২০২৩ চনৰ
+DATE: ২০২৩ চন in position (5, 12)
+
+original expression: অহা ডিচেম্বৰত
+DATE: ডিচেম্বৰ in position (4, 12)
+
+original expression: ১ ছেপ্টেম্বৰ ২০২৬ৰ
+DATE: ১ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: যোৱা জানুৱাৰী মাহত
+DATE: জানুৱাৰী in position (5, 13)
+
+original expression: অহা বৰ্ষৰ
+
+original expression: ৩০ আগষ্ট ২০২৬ত
+DATE: ৩০ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: যোৱা ২০২০ চনত
+DATE: ২০২০ চন in position (5, 12)
+
+original expression: অহা ২০২৮ চনৰ
+DATE: ২০২৮ চন in position (4, 11)
+
+original expression: যোৱা ২০২১ চনৰ
+DATE: ২০২১ চন in position (5, 12)
+
+original expression: অহা ২০২৩ চনৰ মাৰ্চ মাহত
+DATE: ২০২৩ চনৰ মাৰ্চ in position (4, 18)
+
+original expression: যোৱা ১ ছেপ্টেম্বৰৰ
+DATE: ১ ছেপ্টেম্বৰ in position (5, 17)
+
+original expression: অহা সোমবাৰৰ
+DATE: সোমবাৰ in position (4, 10)
+
+original expression: ২৫ আগষ্ট ২০২৬ৰ
+DATE: ২৫ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: অহা ১৫ নৱেম্বৰত
+DATE: ১৫ নৱেম্বৰ in position (4, 14)
+
+original expression: ২ ছেপ্টেম্বৰ ২০২৬ৰ
+DATE: ২ ছেপ্টেম্বৰ ২০২৬ in position (0, 17)
+
+original expression: অহা সপ্তাহৰ
+
+original expression: ২৯ আগষ্ট ২০২৬ৰ নিশা
+TIME: নিশা in position (15, 19)
+DATE: ২৯ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: বাৰ্ষিক
+
+original expression: যোৱা ৫ বছৰ
+
+original expression: অহা ২০২৭ চনলৈকে
+DATE: ২০২৭ চন in position (4, 11)
+
+original expression: ২২ আগষ্ট ২০২৬ত
+DATE: ২২ আগষ্ট ২০২৬ in position (0, 13)
+
+original expression: যোৱা বৰ্ষত
+
+original expression: যোৱা ২০২২ চনত
+DATE: ২০২২ চন in position (5, 12)
+
+original expression: অহা ২০২৭ চনৰ ডিচেম্বৰৰ
+DATE: ২০২৭ চনৰ ডিচেম্বৰ in position (4, 21)
+
+original expression: 
+
