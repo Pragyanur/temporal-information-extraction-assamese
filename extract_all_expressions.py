@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Extract the gold TIMEX3 annotations from the annotated HTML into a CSV.
 

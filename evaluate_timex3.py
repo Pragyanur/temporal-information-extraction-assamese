@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Score the pipeline against the annotated corpus.
 

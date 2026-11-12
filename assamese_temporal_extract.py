@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Assamese temporal-expression extraction — v3.
 

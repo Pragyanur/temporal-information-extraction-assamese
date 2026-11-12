@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Read the annotated Assamese TIMEX3 corpus.
 

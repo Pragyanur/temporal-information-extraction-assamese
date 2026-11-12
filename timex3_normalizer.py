@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Turn Assamese temporal expressions into TIMEX3 attributes.
 
