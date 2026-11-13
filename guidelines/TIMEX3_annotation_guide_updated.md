@@ -69,11 +69,11 @@ a normalised ISO value in the `value` attribute:
 "বিগত দেওবাৰে", "অহা সোমবাৰে") were resolved against the real 2026 calendar,
 not by hand. 11 such expressions resolve to the correct weekday; verified.
 
-**Nukta encoding.** Your files mix U+09DF (য়) with the decomposed sequence
+**Nukta encoding.** The files mix U+09DF (য়) with the decomposed sequence
 U+09AF U+09BC (য + ়). These render identically but are different byte
 sequences, and a naive matcher silently misses roughly one expression in
 fifteen. Matching was therefore done on a normalised copy with an index map
-back to the original, so the output preserves whichever form your file used.
+back to the original, so the output preserves whichever form the file used.
 
 **Ages are DURATION.** Following TimeBank practice, "৭৭ বছৰীয়া চিকিৎসক" and
 "৩৭ বছৰীয়া" are tagged `DURATION P77Y` / `P37Y`, not DATE.
