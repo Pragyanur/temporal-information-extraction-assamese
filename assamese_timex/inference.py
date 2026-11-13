@@ -1,6 +1,6 @@
 import datetime as _dt
 import re
-from timex3_normalizer import annotate_document, to_timex3, tag_document
+from assamese_timex.normalizer import annotate_document, to_timex3, tag_document
 
 ISO_DATE_PREFIX = re.compile(r"^(\d{4}-\d{2}-\d{2})")
 

@@ -36,7 +36,7 @@ import re
 from dataclasses import dataclass, replace
 from typing import List, Optional
 
-from assamese_temporal_extract import extract, normalize
+from assamese_timex.extract import extract, normalize
 
 __all__ = ["Timex3", "to_timex3", "annotate_document", "tag_document"]
 

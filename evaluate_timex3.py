@@ -22,7 +22,7 @@ import sys
 from collections import Counter
 
 from corpus import load_documents
-from timex3_normalizer import CONTEXT_WINDOW, annotate_document, to_timex3
+from assamese_timex.normalizer import CONTEXT_WINDOW, annotate_document, to_timex3
 
 FULL_DATE = re.compile(r"\d{4}-\d{2}-\d{2}")
 FIELDS = ("type", "value", "mod", "temporalFunction",
