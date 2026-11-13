@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: assamese-timex
-Version: 0.1.0
-Summary: Assamese temporal expression extraction and TIMEX3 normalization
-Requires-Python: >=3.10
-License-File: LICENSE
-Dynamic: license-file
