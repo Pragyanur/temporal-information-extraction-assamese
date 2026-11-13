@@ -330,9 +330,9 @@ def extract(text: str):
     ]
 
 
-if __name__ == "__main__":
-    import sys
+# if __name__ == "__main__":
+#     import sys
 
-    sample = " ".join(sys.argv[1:]) or "যোৱা দেওবাৰ নিশা ৯ বাজি ৮ মিনিটত আৰু ২৫ জুলাইৰ পুৱা ১০ বজাত"
-    for start, end, matched, cats in extract(sample):
-        print(f"[{start:>3}:{end:<3}] {cats:<15} {matched!r}")
+#     sample = " ".join(sys.argv[1:]) or "যোৱা দেওবাৰ নিশা ৯ বাজি ৮ মিনিটত আৰু ২৫ জুলাইৰ পুৱা ১০ বজাত"
+#     for start, end, matched, cats in extract(sample):
+#         print(f"[{start:>3}:{end:<3}] {cats:<15} {matched!r}")

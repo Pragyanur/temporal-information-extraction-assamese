@@ -725,11 +725,19 @@ def tag_document(text: str, dct: _dt.date) -> str:
     return "".join(out)
 
 
-if __name__ == "__main__":
-    demo_dct = _dt.date(2026, 9, 4)
-    demo = (
-        "আজি পুৱা ৯ বজাত সভা আৰম্ভ হ'ব। যোৱা সোমবাৰে ৩ ছেপ্টেম্বৰ ২০২৬ত "
-        "বিগত ৭ দিনে বৰষুণ হৈছে আৰু অহা মাহত প্ৰতি শনিবাৰে বন্ধ থাকিব।"
-    )
-    for tx in annotate_document(demo, demo_dct):
-        print(f"{tx.tid:<4} {tx.type:<9} {tx.value:<20} {tx.mod:<13} {tx.expression}")
+# if __name__ == "__main__":
+#     demo_dct = _dt.date(2026, 9, 4)
+#     demo = (
+#         "আজি পুৱা ৯ বজাত সভা আৰম্ভ হ'ব। যোৱা সোমবাৰে ৩ ছেপ্টেম্বৰ ২০২৬ত "
+#         "বিগত ৭ দিনে বৰষুণ হৈছে আৰু অহা মাহত প্ৰতি শনিবাৰে বন্ধ থাকিব।"
+#     )
+#     for tx in annotate_document(demo, demo_dct):
+#         print(f"{tx.tid:<4} {tx.type:<9} {tx.value:<20} {tx.mod:<13} {tx.expression}")
+
+# if __name__ == "__main__":
+#     demo_dct = _dt.date(2026, 9, 4)
+#     demo = (
+#         "স্পেইনৰ Málaga চহৰত জন্ম গ্ৰহণ কৰা ক'কেই ঘৰুৱা চহৰৰ ক্লাব Málaga CFত নিজৰ পেছাদাৰী ফুটবলৰ পাতনি মেলে। ২০০৩ চনত এই ক্লাবৰ B-দলে প্ৰথমবাৰৰ বাবে দ্বিতীয় ডিভিজনত প্ৰৱেশ কৰে।"
+#     )
+#     for tx in annotate_document(demo, demo_dct):
+#         print(f"{tx.tid:<4} {tx.type:<9} {tx.value:<20} {tx.mod:<13} {tx.expression}")
