@@ -203,7 +203,7 @@ DATE = _p(
 
 REL_PAST = r"(?:যোৱা|বিগত|গত)"
 REL_FUTURE = r"(?:অহা|আগামী|আহি\s+থকা|আহিলে)"
-REL_NOW = r"(?:এতিয়া|বৰ্তমান|চলিত|আজিকালি|আজি|কালি|কাইলৈ)"
+REL_NOW = r"(?:এতিয়া|বৰ্তমান|চলিত|আজিকালি|আজি|কালি|কাইলৈ|কালিলৈ)"
 REL_DEM = r"(?:এই)"
 # NOTE: REL_MARK includes the demonstrative "এই" ("this"), which is only
 # safe to treat as a time-relative marker when it is glued to a duration/unit

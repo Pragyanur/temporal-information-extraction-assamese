@@ -47,3 +47,6 @@ def infer(text: str, dct: _dt.date | None = None):
 def write_on_document(text: str, dct: _dt.date | None = None) -> str:
     resolved_dct = resolve_dct(text, dct)
     return tag_document(text, resolved_dct)
+
+infer("যোৱা কেইদিনমান ধৰি হোৱা নেৰানেপেৰা বৰষুণৰ ফলত গুৱাহাটীৰ বিভিন্ন অঞ্চলত কৃত্ৰিম বানপানীৰ সৃষ্টি হৈছে।")
+infer("বিগত কেইটামান দিনত হোৱা ধাৰাষাৰ বৰষুণৰ বাবে মহানগৰীৰ কেইবাটাও এলেকা এতিয়া কৃত্ৰিম বানৰ কবলত পৰিছে।")
